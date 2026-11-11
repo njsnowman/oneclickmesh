@@ -354,7 +354,12 @@ class App(Tools):
         ttk.Entry(parent,textvariable=var,width=width).grid(row=row*2+1,column=col,sticky='w',padx=5,pady=(2,5))
 
     def browse(self):
-        folder=filedialog.askdirectory(parent=self.root)
+        downloads=Path.home()/'Downloads'
+        if not downloads.is_dir():
+            downloads=Path.home()/'OneDrive'/'Downloads'
+        if not downloads.is_dir():
+            downloads=Path.home()
+        folder=filedialog.askdirectory(parent=self.root,initialdir=str(downloads))
         if folder:
             self.folder.set(folder)
 
