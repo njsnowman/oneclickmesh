@@ -186,8 +186,13 @@ class App(Tools):
                              highlightbackground=palette['border'],highlightcolor=palette['accent'])
         self.targets.grid(row=1,column=0,sticky='ew')
         target_scroll=ttk.Scrollbar(target,orient='vertical',command=self.targets.yview)
-        target_scroll.grid(row=1,column=1,sticky='ns',padx=(4,0))
-        self.targets.configure(yscrollcommand=target_scroll.set)
+        def target_scroll_state(first,last):
+            target_scroll.set(first,last)
+            if float(first)<=0 and float(last)>=1:
+                target_scroll.grid_remove()
+            else:
+                target_scroll.grid(row=1,column=1,sticky='ns',padx=(4,0))
+        self.targets.configure(yscrollcommand=target_scroll_state)
         target.columnconfigure(0,weight=1)
 
         report_section=ttk.LabelFrame(frame,text='4. Create coverage assessment',padding=7)
@@ -267,8 +272,13 @@ class App(Tools):
                               highlightcolor=palette['accent'])
         self.activity.grid(row=2,column=0,sticky='ew')
         activity_scroll=ttk.Scrollbar(progress_panel,command=self.activity.yview)
-        activity_scroll.grid(row=2,column=1,sticky='ns')
-        self.activity.configure(yscrollcommand=activity_scroll.set)
+        def activity_scroll_state(first,last):
+            activity_scroll.set(first,last)
+            if float(first)<=0 and float(last)>=1:
+                activity_scroll.grid_remove()
+            else:
+                activity_scroll.grid(row=2,column=1,sticky='ns')
+        self.activity.configure(yscrollcommand=activity_scroll_state)
         self.started_at=None
         self.phase_number=0
         self.last_activity=''
