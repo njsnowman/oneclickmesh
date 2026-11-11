@@ -3,6 +3,7 @@ import json
 import math
 import re
 import tempfile
+import time
 from datetime import datetime, timezone
 from propagation import load_dem, path_loss, MissingElevation
 from pathlib import Path
@@ -25,16 +26,38 @@ def request(url, timeout=35):
 def geocode(address):
     query = urlencode(dict(address=address, benchmark='Public_AR_Current', format='json'))
     url = 'https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?' + query
+    payload = None
+    for attempt in range(3):
+        try:
+            with request(url, timeout=20) as response:
+                payload = json.load(response)
+            break
+        except HTTPError as error:
+            if error.code in (408, 429, 500, 502, 503, 504) and attempt < 2:
+                time.sleep(attempt + 1)
+                continue
+            raise ValueError(f'Census address lookup returned HTTP {error.code}. Try again or enter GPS coordinates.') from error
+        except (URLError, TimeoutError, OSError) as error:
+            if attempt < 2:
+                time.sleep(attempt + 1)
+                continue
+            reason = getattr(error, 'reason', error)
+            raise ValueError(f'Could not reach the Census address service ({reason}). Check internet access and try again, or enter GPS coordinates.') from error
+        except (ValueError, KeyError, TypeError) as error:
+            raise ValueError('The Census address service returned an invalid response. Try again or enter GPS coordinates.') from error
     try:
-        with request(url, timeout=15) as response:
-            matches = json.load(response)['result']['addressMatches']
-    except (OSError, ValueError, KeyError, TypeError) as error:
-        raise ValueError('Address lookup is unavailable. Try again or enter GPS coordinates.') from error
+        matches = payload['result']['addressMatches']
+    except (TypeError, KeyError) as error:
+        raise ValueError('The Census address service returned an invalid response. Try again or enter GPS coordinates.') from error
     if not matches:
         raise ValueError('No address match. Check the street, city, state and ZIP, or enter GPS coordinates.')
     if len(matches) != 1:
         raise ValueError('The address has multiple matches. Add the ZIP code or enter GPS coordinates.')
     match = matches[0]
+    entered_zip = re.search(r'\b(\d{5})(?:-\d{4})?\b', address)
+    matched_zip = match.get('addressComponents', {}).get('zip')
+    if entered_zip and matched_zip and entered_zip.group(1) != matched_zip:
+        raise ValueError(f"Census matched this address to ZIP {matched_zip}, not the entered ZIP {entered_zip.group(1)}. Verify the address or enter GPS coordinates.")
     directions = dict(north='N', south='S', east='E', west='W',
                       northeast='NE', northwest='NW', southeast='SE', southwest='SW')
     prefix = re.match(r'^\d+[A-Za-z]?\s+([A-Za-z]+)\.?\s+', address)
