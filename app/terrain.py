@@ -2,6 +2,7 @@
 import json
 import math
 import re
+import ssl
 import tempfile
 import time
 from datetime import datetime, timezone
@@ -11,6 +12,7 @@ from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 
+import certifi
 from PIL import Image
 
 CACHE = Path(tempfile.gettempdir()) / 'meshcore-plotter'
@@ -20,8 +22,12 @@ LOS_RADIUS = 5000
 EARTH = 6_371_000
 NODE_FEED = 'https://map.meshcore.io/api/v1/nodes'
 
+TLS_CONTEXT = ssl.create_default_context()
+TLS_CONTEXT.load_verify_locations(cafile=certifi.where())
+
 def request(url, timeout=35):
-    return urlopen(Request(url, headers={'User-Agent': 'MeshCore-Coverage-Plotter/0.1'}), timeout=timeout)
+    return urlopen(Request(url, headers={'User-Agent': 'MeshCore-Coverage-Plotter/0.1'}),
+                   timeout=timeout, context=TLS_CONTEXT)
 
 def geocode(address):
     query = urlencode(dict(address=address, benchmark='Public_AR_Current', format='json'))
