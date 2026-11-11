@@ -386,7 +386,14 @@ class App(Tools):
             settings['location_source']='Entered GPS coordinates'
             if settings['origin'] is None:
                 progress('Looking up the street address...')
-                (lat,lon),settings['address']=terrain.geocode(settings['address'])
+                settings['entered_address']=settings['address'].strip()
+                (lat,lon),settings['address']=terrain.geocode(settings['entered_address'])
+                entered=' '.join(settings['entered_address'].upper().replace(',',' ').split())
+                matched=' '.join(settings['address'].upper().replace(',',' ').split())
+                if entered != matched:
+                    progress(f'Address differs from Census match: {settings["address"]}. Verify the map pin or enter GPS.')
+                else:
+                    progress(f'Census matched address: {settings["address"]}.')
                 settings['origin']=point(str(lat),str(lon))
                 settings['location_source']='Census address estimate'
             lat,lon=settings['origin']

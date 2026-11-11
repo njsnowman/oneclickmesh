@@ -60,19 +60,6 @@ def geocode(address):
     if len(matches) != 1:
         raise ValueError('The address has multiple matches. Add the ZIP code or enter GPS coordinates.')
     match = matches[0]
-    entered_zip = re.search(r'\b(\d{5})(?:-\d{4})?\b', address)
-    matched_zip = match.get('addressComponents', {}).get('zip')
-    if entered_zip and matched_zip and entered_zip.group(1) != matched_zip:
-        raise ValueError(f"Census matched this address to ZIP {matched_zip}, not the entered ZIP {entered_zip.group(1)}. Verify the address or enter GPS coordinates.")
-    directions = dict(north='N', south='S', east='E', west='W',
-                      northeast='NE', northwest='NW', southeast='SE', southwest='SW')
-    prefix = re.match(r'^\d+[A-Za-z]?\s+([A-Za-z]+)\.?\s+', address)
-    if prefix:
-        token = prefix[1].lower()
-        expected = directions.get(token, token.upper())
-        if expected in directions.values() and expected != match.get('addressComponents', {}).get('preDirection'):
-            raise ValueError(f"The address lookup returned {match['matchedAddress']}. "
-                             "Check the street direction or enter GPS coordinates.")
     coords = match['coordinates']
     return (coords['y'], coords['x']), match['matchedAddress']
 

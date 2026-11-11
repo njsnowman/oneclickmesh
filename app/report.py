@@ -228,15 +228,23 @@ def write_report(filename,s,r):
     p('<b>'+escape(s['site'])+'</b>')
     if s.get('prepared_for'):
         p('<b>Prepared for</b>  '+escape(s['prepared_for']))
+    address_rows=[]
+    if s.get('entered_address') and ' '.join(s['entered_address'].upper().replace(',',' ').split()) != ' '.join(s['address'].upper().replace(',',' ').split()):
+        address_rows=[['Address entered',s['entered_address']],['Census match',s['address']]]
+    elif s['address']:
+        address_rows=[['Street address',s['address']]]
+    address_differs=bool(s.get('entered_address') and ' '.join(s['entered_address'].upper().replace(',',' ').split()) != ' '.join(s['address'].upper().replace(',',' ').split()))
     table(['Planning input','Value'],[
         ['Modeled location',f"{lat:.6f}, {lon:.6f} ({s['location_source']})"],
-        *([['Street address',s['address']]] if s['address'] else []),
+        *address_rows,
         ['Endpoint elevation',f"{r['start_z']/FOOT:.1f} ft ({r['base']})"],
         ['Station antenna heights',heights_label+' above ground'],
         ['Radio preset',f'{freq:g} MHz / {bw:g} kHz / SF{sf} / CR 4/{cr}'],
         ['Handheld plot',f"{s['handheld']/FOOT:g} ft AGL | LOS {LOS_RADIUS/MILE:.2f} mi | ITM {s['radius']:g} mi"],
         ['Public repeater lookup','Enabled' if s['discover'] else 'Disabled'],
     ],[165,351])
+    if address_differs:
+        p(f'<b>Address verification needed.</b> Census returned {escape(s["address"])} for the entered address. The assessment uses the returned coordinates. Check the map pin and use GPS coordinates if it is not the intended site.',small,5)
     candidates=[(item,values) for item,values in by_path if item['kind']!='Handheld'
                 and (item['kind']!='Public repeater' or 'observ' not in item['name'].lower())]
     candidate=next(((i,item,values[i]) for i in range(len(heights)) for item,values in candidates
