@@ -262,8 +262,7 @@ def write_report(filename,s,r):
     p('The assessment estimates terrain clearance and median propagation loss. Packet delivery, measured signal strength and indoor service require field measurements.',small)
     end()
 
-    import sys, report_maps
-    report_maps.append(sys.modules[__name__],s,r)
+    import sys, report_maps, report_deployment, field_checklist
 
     if r.get('context_maps'):
         aerial,topo,street=r['context_maps']
@@ -280,6 +279,12 @@ def write_report(filename,s,r):
         basemap(topo)
         basemap(street)
         end()
+
+    field_checklist.append(sys.modules[__name__],s,r)
+    if r.get('scenarios'):
+        report_deployment.append_planning(sys.modules[__name__],s,r)
+
+    report_maps.append(sys.modules[__name__],s,r)
 
     start('01  /  USGS 3DEP','Local elevation map','Bare-earth elevation, centered on the modeled antenna site')
     image,low,high=r['terrain_image']

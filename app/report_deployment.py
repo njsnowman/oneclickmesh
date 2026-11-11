@@ -7,9 +7,7 @@ from deployment import scenario_rows
 from terrain import FOOT
 from context_maps import point_on_map
 
-def append(pdf,s,r):
-    import field_checklist
-    field_checklist.append(pdf,s,r)
+def append_planning(pdf,s,r):
     pdf.start('DEPLOYMENT PLANNING','Site and height comparison','Same destinations, radio assumptions and two-way margin target')
     rows=scenario_rows(s,r)
     for offset in range(0,len(rows),6):
@@ -35,6 +33,8 @@ def append(pdf,s,r):
             x,y=scenario['spacing']
             pdf.p(f'Terrain spacing at {escape(scenario["name"])}: approximately {x/FOOT:.0f} ft east-west / {y/FOOT:.0f} ft north-south. Grid extent and resampling can affect comparisons.',pdf.small,4)
     pdf.end()
+
+def append(pdf,s,r):
     for i,h in enumerate(s['heights']):
         pdf.start('GEOGRAPHIC COVERAGE',f'Two-way coverage | {h/FOOT:g} ft',f"{s['quality']} sampling | {s['radius']:g} mi radius | north up")
         pdf.c.drawImage(ImageReader(r['overlays'][i]),96,180,420,420)
@@ -80,7 +80,7 @@ def append(pdf,s,r):
             for item in r['field'][offset:offset+12]:
                 loss=item['prediction'][-1][0] if item['prediction'] else None
                 value=f'{margins(loss,b,True)[2]:+.1f}' if loss is not None else 'N/A'
-                rows.append([f'{item["latitude"]:.5f}\n{item["longitude"]:.5f}',f'{item["received"]/item["sent"]:.0%}',
+                rows.append([f'{item["latitude"]:.5f}\r\n{item["longitude"]:.5f}',f'{item["received"]/item["sent"]:.0%}',
                              '-' if item.get('rssi') is None else f'{item["rssi"]:g}',
                              '-' if item.get('snr') is None else f'{item["snr"]:g}',value,item.get('repeater','')[:35]])
             pdf.table(['GPS','Delivery','RSSI dBm','SNR dB','Model dB','Repeater heard'],rows,[110,65,70,65,70,136])
