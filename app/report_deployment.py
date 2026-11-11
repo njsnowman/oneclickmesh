@@ -1,1 +1,88 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛ´N‹Z–‹­¦ëeŠw¬Ôˆˆ‰•Á±½åµ•¹Ğ‘•¥Í¥½¸Á…•Ì°•½É•™•É•¹•ÁÉ•‘¥Ñ¥½¹Ì…¹µ•…ÍÕÉ•½Ù•É±…åÌ¸ˆˆˆ4)™É½´áµ°¹Í…à¹Í…áÕÑ¥±Ì¥µÁ½ÉĞ•Í…Á”4)™É½´É•Á½ÉÑ±…ˆ¹±¥ˆ¹ÕÑ¥±Ì¥µÁ½ÉĞ%µ…•I•…‘•È4)™É½´A%0¥µÁ½ÉĞ%µ…•É…Ü4)™É½´Á±…¹¹¥¹œ¥µÁ½ÉĞµ…É¥¹Ì4)™É½´‘•Á±½åµ•¹Ğ¥µÁ½ÉĞÍ•¹…É¥½}É½İÌ4)™É½´Ñ•ÉÉ…¥¸¥µÁ½ÉĞ==P4)™É½´½¹Ñ•áÑ}µ…ÁÌ¥µÁ½ÉĞÁ½¥¹Ñ}½¹}µ…À4(4)‘•˜…ÁÁ•¹¡Á‘˜±Ì±È¤è4(€€€¥µÁ½ÉĞ™¥•±‘}¡•­±¥ÍĞ4(€€€™¥•±‘}¡•­±¥ÍĞ¹…ÁÁ•¹¡Á‘˜±Ì±È¤4(€€€Á‘˜¹ÍÑ…ÉĞ A1=e59PA199%9œ°M¥Ñ”…¹¡•¥¡Ğ½µÁ…É¥Í½¸œ°M…µ”‘•ÍÑ¥¹…Ñ¥½¹Ì°É…‘¥¼…ÍÍÕµÁÑ¥½¹Ì…¹Ñİ¼µİ…äµ…É¥¸Ñ…É•Ğœ¤4(€€€É½İÌõÍ•¹…É¥½}É½İÌ¡Ì±È¤4(€€€™½È½™™Í•Ğ¥¸É…¹” À±±•¸¡É½İÌ¤°Ø¤è4(€€€€€€€¥˜½™™Í•Ğè4(€€€€€€€€€€€Á‘˜¹•¹ ¤4(€€€€€€€€€€€Á‘˜¹ÍÑ…ÉĞ A1=e59PA199%9œ°M¥Ñ”½µÁ…É¥Í½¸½¹Ñ¥¹Õ•œ°M…µ”‘•ÍÑ¥¹…Ñ¥½¹Ì…¹É…‘¥¼…ÍÍÕµÁÑ¥½¹Ìœ¤4(€€€€€€€Á‘˜¹Ñ…‰±”¡l…¹‘¥‘…Ñ”Í¥Ñ”œ°!•¥¡Ğœ°Q…É•Ğµ•Ğœ°…Ñ„ÍÑ…ÑÕÌt±É½İÍm½™™Í•Ğé½™™Í•Ğ¬Ùt±lÈÌÔ°ÜÀ°ÄÀÀ°ÄÄÅt¤4(€€€Á‘˜¹À¡˜‰… Í½É”½Õ¹ÑÌ‘•ÍÑ¥¹…Ñ¥½¹Ìİ¡•É”	=Q ‘¥É•Ñ¥½¹Ìµ••ĞÑ¡”íÍl‰Õ‘•ĞulÉ•Í•ÉÙ”téô‘É•Í•ÉÙ”¸Q¡”½µÁ…É¥Í½¸ÕÍ•ÌíÉl½µµ½¹}½Õ¹Ğuô½µµ½¸‘•ÍÑ¥¹…Ñ¥½¹Ììµ¥ÍÍ¥¹œÉ•ÍÕ±ÑÌ‘¼¹½Ğ½Õ¹Ğ…ÌÁ…ÍÍ¥¹œ¸ˆ±Á‘˜¹Íµ…±°¤4(€€€¥˜Él½µµ½¹}½Õ¹Ğtè4(€€€€€€€½µÁ±•Ñ”õmÉ½Ü™½ÈÉ½Ü¥¸É½İÌ¥˜É½İlÍtôô½µÁ±•Ñ”t4(€€€€€€€¥˜½µÁ±•Ñ”è4(€€€€€€€€€€€‰•ÍĞõµ…à¡¥¹Ğ¡É½İlÉt¹ÍÁ±¥Ğ œ¼œ¥lÁt¤™½ÈÉ½Ü¥¸½µÁ±•Ñ”¤4(€€€€€€€€€€€İ¥¹¹•ÉÌõmÉ½Ü™½ÈÉ½Ü¥¸½µÁ±•Ñ”¥˜¥¹Ğ¡É½İlÉt¹ÍÁ±¥Ğ œ¼œ¥lÁt¤ôõ‰•ÍÑt4(€€€€€€€€€€€İ¥¹¹•Èõµ¥¸¡İ¥¹¹•ÉÌ±­•äõ±…µ‰‘„É½Üé™±½…Ğ¡É½İlÅt¹ÍÁ±¥Ğ ¥lÁt¤¤4(€€€€€€€€€€€Á‘˜¹…±±½ÕĞ ¥ÉÍĞ½¹™¥ÕÉ…Ñ¥½¸Ñ¼™¥•±µÑ•ÍĞœ±˜í•Í…Á”¡İ¥¹¹•ÉlÁt¥ô…Ğíİ¥¹¹•ÉlÅuôÉ•…¡•Ìíİ¥¹¹•ÉlÉuô½µµ½¸‘•ÍÑ¥¹…Ñ¥½¹Ì¸Q¡¥Ì¥ÌÑ¡”±½İ•ÍĞÑ•ÍÑ•¡•¥¡Ğ…µ½¹œ•ÅÕ…±±äÍ½É¥¹œ½µÁ±•Ñ”Í•¹…É¥½Ì¸%Ğ¥Ì¹½Ğ„Õ…É…¹Ñ•”½˜Í•ÉÙ¥”½È„½¹ÍÑÉÕÑ¥½¸É•½µµ•¹‘…Ñ¥½¸¸œ¤4(€€€•±Í”è4(€€€€€€€Á‘˜¹À ‘½µµ½¸Ñ•ÍĞ‘•ÍÑ¥¹…Ñ¥½¹ÌÑ¼É…¹¬Í¥Ñ•Ì¸9¼Í¥Ñ”É…¹­¥¹œ¥ÌÁ½ÍÍ¥‰±”İ¥Ñ¡½ÕĞ‘•ÍÑ¥¹…Ñ¥½¹Ì¸œ±Á‘˜¹Íµ…±°¤4(€€€™½ÈÍ•¹…É¥¼¥¸ÉlÍ•¹…É¥½Ìtè4(€€€€€€€¥˜Í•¹…É¥½l•ÉÉ½Ètè4(€€€€€€€€€€€Á‘˜¹À¡˜‰í•Í…Á”¡Í•¹…É¥½l¹…µ”t¥ôèí•Í…Á”¡Í•¹…É¥½l•ÉÉ½ÈulèÈĞÁt¥ôˆ±Á‘˜¹Íµ…±°°Ğ¤4(€€€™½ÈÍ•¹…É¥¼¥¸ÉlÍ•¹…É¥½ÌulÄétè4(€€€€€€€¥˜Í•¹…É¥¼¹•Ğ ÍÁ…¥¹œœ¤è4(€€€€€€€€€€€à±äõÍ•¹…É¥½lÍÁ…¥¹œt4(€€€€€€€€€€€Á‘˜¹À¡˜Q•ÉÉ…¥¸ÍÁ…¥¹œ…Ğí•Í…Á”¡Í•¹…É¥½l‰¹…µ”‰t¥ôè…ÁÁÉ½á¥µ…Ñ•±äíà½==Pè¸Á™ô™Ğ•…ÍĞµİ•ÍĞ€¼íä½==Pè¸Á™ô™Ğ¹½ÉÑ µÍ½ÕÑ ¸É¥•áÑ•¹Ğ…¹É•Í…µÁ±¥¹œ…¸…™™•Ğ½µÁ…É¥Í½¹Ì¸œ±Á‘˜¹Íµ…±°°Ğ¤4(€€€Á‘˜¹•¹ ¤4(€€€™½È¤± ¥¸•¹Õµ•É…Ñ”¡Íl¡•¥¡ÑÌt¤è4(€€€€€€€Á‘˜¹ÍÑ…ÉĞ =IA!%=YIœ±˜Qİ¼µİ…ä½Ù•É…”ğí ½==Péô™Ğœ±˜‰íÍlÅÕ…±¥ÑäuôÍ…µÁ±¥¹œğíÍlÉ…‘¥ÕÌtéôµ¤É…‘¥ÕÌğ¹½ÉÑ ÕÀˆ¤4(€€€€€€€Á‘˜¹Œ¹‘É…İ%µ…”¡%µ…•I•…‘•È¡Él½Ù•É±…åÌum¥t¤°äØ°ÄàÀ°ĞÈÀ°ĞÈÀ¤4(€€€€€€€Á‘˜¹äôÄØä4(€€€€€€€Á‘˜¹À¡˜‰É••¸è‰½Ñ µ…É¥¹Ìµ••ĞíÍl‰Õ‘•ĞulÉ•Í•ÉÙ”téô‘¸½±è‰½Ñ µ••ĞÍ•¹Í¥Ñ¥Ù¥Ñä½¹±ä¸IÕÍĞè…Ğ±•…ÍĞ½¹”‘¥É•Ñ¥½¸™…±±Ì‰•±½ÜÍ•¹Í¥Ñ¥Ù¥Ñä¸É…äèÕ¹…Ù…¥±…‰±”¸]¡¥Ñ”•¹Ñ•ÈèÍÑ…Ñ¥½¸¸ˆ±Á‘˜¹Íµ…±°°Ô¤4(€€€€€€€Á‘˜¹À¡˜‰í±•¸¡ÉlÉ¥t¥ô‘¥ÍÉ•Ñ”Á…Ñ Í…µÁ±•Ìì¹½µ¥¹…°ÍÁ…¥¹œíÉlÉ¥‘}ÍÁ…¥¹œtè¸É™ôµ¤¸½±½É•ÍÅÕ…É•Ìµ…É¬Í…µÁ±•Á½¥¹ÑÌ°¹½Ğƒ´¶‰ËkºwµçM¥ÁÉ½…°ÁÉ½Á……Ñ¥½¸…ĞÑ¡”Í…µ”™É•ÅÕ•¹ä¸M•¹Í¥Ñ¥Ù¥ÑäµÕÍĞµ…Ñ Ñ¡”…ÑÕ…°É…‘¥¼…¹µ½‘•´ÁÉ•Í•Ğ¸	Õ¥±‘¥¹œÁ•¹•ÑÉ…Ñ¥½¸°™½±¥…”°¥¹Ñ•É™•É•¹”°…¹Ñ•¹¹„Á…ÑÑ•É¹Ì…¹ÁÉ½Ñ½½°‰•¡…Ù¥½È…É”¹½ĞÉ•ÁÉ•Í•¹Ñ•¸œ¤4(€€€Á‘˜¹À EÕ¥¬…¹•Ñ…¥±•¡…¹”•½É…Á¡¥ŒÍ…µÁ±¥¹œ‘•¹Í¥Ñä°¹½ĞÑ•ÉÉ…¥¸É•Í½±ÕÑ¥½¸½ÈÑ¡”ÁÉ½Á……Ñ¥½¸µ½‘•°¸UMLÑ•ÉÉ…¥¸…¸‰”…¡•ìÉ…Á¥½µÁ±•Ñ¥½¸¥Ì¹½Ğ•Ù¥‘•¹”½˜™…‰É¥…Ñ•‘…Ñ„¸½¹ÍÕ±ĞÑ¡”‘…Ñ„É•½É™½È…¡”ÍÑ…ÑÕÌ¸œ¤4(€€€Á‘˜¹•¹ ¤4(€€€¥˜Él™¥•±tè4(€€€€€€€¥µ…”õÉl½Ù•É±…å}‰…Í”ul¥µ…”t¹½Áä ¤4(€€€€€€€‘É…Üõ%µ…•É…Ü¹É…Ü¡¥µ…”¤4(€€€€€€€Á±½ÑÑ•ôÀ4(€€€€€€€™½È¥Ñ•´¥¸Él™¥•±tè4(€€€€€€€€€€€à±äõÁ½¥¹Ñ}½¹}µ…À¡Él½Ù•É±…å}‰…Í”ul‰½Õ¹‘Ìt°¡¥Ñ•µl±…Ñ¥ÑÕ‘”t±¥Ñ•µl±½¹¥ÑÕ‘”t¤¤4(€€€€€€€€€€€¥˜€ÀğõàğôÄ…¹€ÀğõäğôÄè4(€€€€€€€€€€€€€€€Á±½ÑÑ•¬ôÄ4(€€€€€€€€€€€€€€€É…Ñ”õ¥Ñ•µlÉ••¥Ù•t½¥Ñ•µlÍ•¹Ğt4(€€€€€€€€€€€€€€€½±½ÈôœŒÀÀİØÀœ¥˜É…Ñ”øô¸ä•±Í”€œ	äÔÈØœ¥˜É…Ñ”øô¸Ô•±Í”€œÌÍÈàœ4(€€€€€€€€€€€€€€€‘É…Ü¹•±±¥ÁÍ” ¡à¨àÀÀ´Ô±ä¨àÀÀ´Ô±à¨àÀÀ¬Ô±ä¨àÀÀ¬Ô¤±™¥±°õ½±½È±½ÕÑ±¥¹”ôİ¡¥Ñ”œ±İ¥‘Ñ ôÄ¤4(€€€€€€€Á‘˜¹ÍÑ…ÉĞ %15MUI59QLœ°5•…ÍÕÉ•Á…­•Ğ‘•±¥Ù•Éäœ°%µÁ½ÉÑ•½‰Í•ÉÙ…Ñ¥½¹Ì°Í•Á…É…Ñ”™É½´ÁÉ½Á……Ñ¥½¸ÁÉ•‘¥Ñ¥½¹Ìœ¤4(€€€€€€€Á‘˜¹Œ¹‘É…İ%µ…”¡%µ…•I•…‘•È¡¥µ…”¤°äØ°ÄàÀ°ĞÈÀ°ĞÈÀ¤4(€€€€€€€Á‘˜¹äôÄØä4(€€€€€€€Í•¹ĞõÍÕ´¡É½İlÍ•¹Ğt™½ÈÉ½Ü¥¸Él™¥•±t¤íÉ••¥Ù•õÍÕ´¡É½İlÉ••¥Ù•t™½ÈÉ½Ü¥¸Él™¥•±t¤4(€€€€€€€Á‘˜¹À¡˜í±•¸¡Él‰™¥•±‰t¥ôÉ•½É‘ÌìíÁ±½ÑÑ•‘ô¥¹Í¥‘”µ…À•áÑ•¹Ğ¸É•…Ñ”‘•±¥Ù•ÉäèíÉ••¥Ù•½Í•¹Ğè¸Ä•ô€¡íÉ••¥Ù•éô€¼íÍ•¹ĞéôÁ…­•ÑÌ¤¸É••¸è€äÀ”½È¡¥¡•Èì½±è€ÔÀ´àä”ìÉÕÍĞè‰•±½Ü€ÔÀ”¸Q¡•Í”…É”‘¥ÍÁ±…ä‰…¹‘Ì°¹½Ğ…•ÁÑ…¹”É¥Ñ•É¥„¸œ±Á‘˜¹Íµ…±°°Ô¤4(€€€€€€€Á‘˜¹À 1½Ìµ…ä‘•ÍÉ¥‰”µÕ±Ñ¤µ¡½ÀÑÉ…™™¥Œ½È‘¥™™•É•¹Ğ•ÅÕ¥Áµ•¹Ğ¸Q¡•Í”½‰Í•ÉÙ…Ñ¥½¹Ì‘¼¹½Ğ…ÕÑ½µ…Ñ¥…±±ä…±¥‰É…Ñ”½ÈÙ…±¥‘…Ñ”‘¥É•ĞµÁ…Ñ %Q4ÁÉ•‘¥Ñ¥½¹Ì¸	…Í•µ…Àè€œ­•Í…Á”¡Él½Ù•É±…å}‰…Í”ulÉ•‘¥Ğt¤±Á‘˜¹Íµ…±°°Ì¤4(€€€€€€€Á‘˜¹•¹ ¤4(€€€€€€€™½È½™™Í•Ğ¥¸É…¹” À±±•¸¡Él™¥•±t¤°ÄÈ¤è4(€€€€€€€€€€€Á‘˜¹ÍÑ…ÉĞ %11=œ±˜5•…ÍÕÉ•µ•¹ÑÌí½™™Í•Ğ¬Åôµíµ¥¸¡½™™Í•Ğ¬ÄÈ±±•¸¡Él‰™¥•±‰t¤¥ôœ°¥É•Ğµ½‘•±•µ…É¥¸ÕÍ•ÌÑ¡”¡¥¡•ÍĞÑ•ÍÑ•ÍÑ…Ñ¥½¸¡•¥¡Ğœ¤4(€€€€€€€€€€€É½İÌõmt4(€€€€€€€€€€€™½È¥Ñ•´¥¸Él™¥•±um½™™Í•Ğé½™™Í•Ğ¬ÄÉtè4(€€€€€€€€€€€€€€€±½ÍÌõ¥Ñ•µlÁÉ•‘¥Ñ¥½¸ul´ÅulÁt¥˜¥Ñ•µlÁÉ•‘¥Ñ¥½¸t•±Í”9½¹”4(€€€€€€€€€€€€€€€Ù…±Õ”õ˜íµ…É¥¹Ì¡±½ÍÌ±ˆ±QÉÕ”¥lÉtè¬¸Å™ôœ¥˜±½ÍÌ¥Ì¹½Ğ9½¹”•±Í”€8½œ4(€€€€€€€€€€€€€€€É½İÌ¹…ÁÁ•¹¡m˜í¥Ñ•µl‰±…Ñ¥ÑÕ‘”‰tè¸Õ™õq¹í¥Ñ•µl‰±½¹¥ÑÕ‘”‰tè¸Õ™ôœ±˜í¥Ñ•µl‰É••¥Ù•‰t½¥Ñ•µl‰Í•¹Ğ‰tè¸À•ôœ°4(€€€€€€€€€€€€€€€€€€€€€€€€€€€€€œ´œ¥˜¥Ñ•´¹•Ğ ÉÍÍ¤œ¤¥Ì9½¹”•±Í”˜í¥Ñ•µl‰ÉÍÍ¤‰téôœ°4(€€€€€€€€€€€€€€€€€€€€€€€€€€€€€œ´œ¥˜¥Ñ•´¹•Ğ Í¹Èœ¤¥Ì9½¹”•±Í”˜í¥Ñ•µl‰Í¹È‰téôœ±Ù…±Õ”±¥Ñ•´¹•Ğ É•Á•…Ñ•Èœ°œœ¥lèÌÕut¤4(€€€€€€€€€€€Á‘˜¹Ñ…‰±”¡lALœ°•±¥Ù•Éäœ°IMM$‘	´œ°M9H‘œ°5½‘•°‘œ°I•Á•…Ñ•È¡•…Ét±É½İÌ±lÄÄÀ°ØÔ°ÜÀ°ØÔ°ÜÀ°ÄÌÙt¤4(€€€€€€€€€€€Á‘˜¹À 8½è½ÕÑÍ¥‘”µ½‘•±•É…‘¥ÕÌ°İ¥Ñ¡¥¸€ÌĞÔ™Ğ½˜Ñ¡”ÍÑ…Ñ¥½¸°½È•±•Ù…Ñ¥½¸€¼%Q4Õ¹…Ù…¥±…‰±”¸5½‘•±•µ…É¥¸¥ÌÉ•±…Ñ¥Ù”Ñ¼Í•¹Í¥Ñ¥Ù¥ÑäìIMM$¥ÌÉ••¥Ù•Á½İ•È¸Q¡•ä…É”‘¥™™•É•¹ĞÅÕ…¹Ñ¥Ñ¥•Ì¸œ±Á‘˜¹Íµ…±°¤4(€€€€€€€€€€€Á‘˜¹•¹ ¤4(
+"""Deployment decision pages, georeferenced predictions and measured overlays."""
+from xml.sax.saxutils import escape
+from reportlab.lib.utils import ImageReader
+from PIL import ImageDraw
+from planning import margins
+from deployment import scenario_rows
+from terrain import FOOT
+from context_maps import point_on_map
+
+def append(pdf,s,r):
+    import field_checklist
+    field_checklist.append(pdf,s,r)
+    pdf.start('DEPLOYMENT PLANNING','Site and height comparison','Same destinations, radio assumptions and two-way margin target')
+    rows=scenario_rows(s,r)
+    for offset in range(0,len(rows),6):
+        if offset:
+            pdf.end()
+            pdf.start('DEPLOYMENT PLANNING','Site comparison continued','Same destinations and radio assumptions')
+        pdf.table(['Candidate site','Height','Target met','Data status'],rows[offset:offset+6],[235,70,100,111])
+    pdf.p(f"Each score counts destinations where BOTH directions meet the {s['budget']['reserve']:g} dB reserve. The comparison uses {r['common_count']} common destinations; missing results do not count as passing.",pdf.small)
+    if r['common_count']:
+        complete=[row for row in rows if row[3]=='Complete']
+        if complete:
+            best=max(int(row[2].split('/')[0]) for row in complete)
+            winners=[row for row in complete if int(row[2].split('/')[0])==best]
+            winner=min(winners,key=lambda row:float(row[1].split()[0]))
+            pdf.callout('First configuration to field-test',f'{escape(winner[0])} at {winner[1]} reaches {winner[2]} common destinations. This is the lowest tested height among equally scoring complete scenarios. It is not a guarantee of service or a construction recommendation.')
+    else:
+        pdf.p('Add common test destinations to rank sites. No site ranking is possible without destinations.',pdf.small)
+    for scenario in r['scenarios']:
+        if scenario['error']:
+            pdf.p(f"{escape(scenario['name'])}: {escape(scenario['error'][:240])}",pdf.small,4)
+    for scenario in r['scenarios'][1:]:
+        if scenario.get('spacing'):
+            x,y=scenario['spacing']
+            pdf.p(f'Terrain spacing at {escape(scenario["name"])}: approximately {x/FOOT:.0f} ft east-west / {y/FOOT:.0f} ft north-south. Grid extent and resampling can affect comparisons.',pdf.small,4)
+    pdf.end()
+    for i,h in enumerate(s['heights']):
+        pdf.start('GEOGRAPHIC COVERAGE',f'Two-way coverage | {h/FOOT:g} ft',f"{s['quality']} sampling | {s['radius']:g} mi radius | north up")
+        pdf.c.drawImage(ImageReader(r['overlays'][i]),96,180,420,420)
+        pdf.y=169
+        pdf.p(f"Green: both margins meet {s['budget']['reserve']:g} dB. Gold: both meet sensitivity only. Rust: at least one direction falls below sensitivity. Gray: unavailable. White center: station.",pdf.small,5)
+        pdf.p(f"{len(r['grid'])} discrete path samples; nominal spacing {r['grid_spacing']:.2f} mi. Colored squares mark sampled points, not validated service areas. The map spans {2*s['radius']:g} mi east-west at the center.",pdf.small,5)
+        flagged=sum(bool(cell['losses'][i][1]) for cell in r['grid'])
+        pdf.p(f'{flagged} samples have ITM or terrain flags. Predictions near model limits require extra field checks.',pdf.small,3)
+        pdf.p('Basemap: '+escape(r['overlay_base']['credit'])+'. Retrieved '+r['overlay_base']['fetched']+'.',pdf.small,3)
+        pdf.end()
+    pdf.start('TWO-WAY RADIO SETTINGS','Endpoint assumptions','Independent transmit power, sensitivity, gain and cable loss')
+    b=s['budget']
+    pdf.table(['Endpoint','TX dBm','RX dBm','Gain dBi','Loss dB'],[
+        ['Station',b['power'],b['station_sensitivity'],b['tx_gain'],b['loss']],
+        ['Handheld',b['handheld_power'],b['handheld_sensitivity'],b['handheld_gain'],b['handheld_loss']],
+        ['Repeater',b['repeater_power'],b['repeater_sensitivity'],b['repeater_gain'],b['repeater_loss']],
+    ],[156,90,90,90,90])
+    pdf.p('For each direction, margin = transmit power + both antenna gains - both cable losses - ITM path loss - the receiving endpoint sensitivity. Two-way margin is the smaller direction margin.')
+    pdf.p('The same terrain path loss is used in both directions under reciprocal propagation at the same frequency. Sensitivity must match the actual radio and modem preset. Building penetration, foliage, interference, antenna patterns and protocol behavior are not represented.')
+    pdf.p('Quick and Detailed change geographic sampling density, not terrain resolution or the propagation model. USGS terrain can be cached; rapid completion is not evidence of fabricated data. Consult the data record for cache status.')
+    pdf.end()
+    if r['field']:
+        image=r['overlay_base']['image'].copy()
+        draw=ImageDraw.Draw(image)
+        plotted=0
+        for item in r['field']:
+            x,y=point_on_map(r['overlay_base']['bounds'],(item['latitude'],item['longitude']))
+            if 0<=x<=1 and 0<=y<=1:
+                plotted+=1
+                rate=item['received']/item['sent']
+                color='#007A60' if rate>=.9 else '#BF9526' if rate>=.5 else '#B33F28'
+                draw.ellipse((x*800-5,y*800-5,x*800+5,y*800+5),fill=color,outline='white',width=1)
+        pdf.start('FIELD MEASUREMENTS','Measured packet delivery','Imported observations, separate from propagation predictions')
+        pdf.c.drawImage(ImageReader(image),96,180,420,420)
+        pdf.y=169
+        sent=sum(row['sent'] for row in r['field']);received=sum(row['received'] for row in r['field'])
+        pdf.p(f'{len(r["field"])} records; {plotted} inside map extent. Aggregate delivery: {received/sent:.1%} ({received:g} / {sent:g} packets). Green: 90% or higher; gold: 50-89%; rust: below 50%. These are display bands, not acceptance criteria.',pdf.small,5)
+        pdf.p('Logs may describe multi-hop traffic or different equipment. These observations do not automatically calibrate or validate direct-path ITM predictions. Basemap: '+escape(r['overlay_base']['credit']),pdf.small,3)
+        pdf.end()
+        for offset in range(0,len(r['field']),12):
+            pdf.start('FIELD LOG',f'Measurements {offset+1}-{min(offset+12,len(r["field"]))}','Direct modeled margin uses the highest tested station height')
+            rows=[]
+            for item in r['field'][offset:offset+12]:
+                loss=item['prediction'][-1][0] if item['prediction'] else None
+                value=f'{margins(loss,b,True)[2]:+.1f}' if loss is not None else 'N/A'
+                rows.append([f'{item["latitude"]:.5f}\n{item["longitude"]:.5f}',f'{item["received"]/item["sent"]:.0%}',
+                             '-' if item.get('rssi') is None else f'{item["rssi"]:g}',
+                             '-' if item.get('snr') is None else f'{item["snr"]:g}',value,item.get('repeater','')[:35]])
+            pdf.table(['GPS','Delivery','RSSI dBm','SNR dB','Model dB','Repeater heard'],rows,[110,65,70,65,70,136])
+            pdf.p('N/A: outside modeled radius, within 345 ft of the station, or elevation / ITM unavailable. Modeled margin is relative to sensitivity; RSSI is received power. They are different quantities.',pdf.small)
+            pdf.end()

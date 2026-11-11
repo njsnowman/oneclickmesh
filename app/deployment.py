@@ -1,1 +1,167 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíßM´N‹Z–‹­¦ëeŠw¬Ôˆˆ‰•½É…Á¡¥ŒÍ…µÁ±¥¹œ…¹½µÁ…É…‰±”‘•Á±½åµ•¹ÐÍ•¹…É¥½Ì¸ˆˆˆ4)¥µÁ½ÉÐÑ•ÉÉ…¥¸…ÌÐ4)™É½´‘…Ñ•Ñ¥µ”¥µÁ½ÉÐ‘…Ñ•Ñ¥µ”±Ñ¥µ•é½¹”4)¥µÁ½ÉÐ½¹Ñ•áÑ}µ…ÁÌ…Ìµ…ÁÌ4)™É½´Á±…¹¹¥¹œ¥µÁ½ÉÐµ…É¥¹Ì4)™É½´A%0¥µÁ½ÉÐ%µ…”°%µ…•É…Ü4(4)‘•˜•¹¡…¹”¡Ì±È±ÁÉ½É•ÍÌ¤è4(€€€‘•´õÈ¹Á½À }‘•´œ¤4(€€€‰½Õ¹‘Ìõµ…ÁÌ¹ÍÅÕ…É•}•½µ•ÑÉä¡Íl½É¥¥¸t±ÍlÉ…‘¥ÕÌt¤4(€€€¸ôÈÔ¥˜ÍlÅÕ…±¥ÑätôôEÕ¥¬œ•±Í”€ÔÄ4(€€€É¥õmt4(€€€™½ÈÉ½Ü¥¸É…¹”¡¸¤è4(€€€€€€€ÁÉ½É•ÍÌ¡˜‰•½É…Á¡¥ŒíÍlÅÕ…±¥Ñät¹±½Ý•È ¥ô½Ù•É…”èÉ½ÜíÉ½Ü¬Åô½˜í¹ô¸¸¸ˆ¤4(€€€€€€€™½È½°¥¸É…¹”¡¸¤è4(€€€€€€€€€€€Á½¥¹Ðõµ…ÁÌ¹µ…Á}Á½¥¹Ð¡‰½Õ¹‘Ì±½°¼¡¸´Ä¤±É½Ü¼¡¸´Ä¤¤4(€€€€€€€€€€€‘¥ÍÑ…¹”õÐ¹‘¥ÍÑ…¹”¡Íl½É¥¥¸t±Á½¥¹Ð¤4(€€€€€€€€€€€¥˜¹½Ð€ÄÀÔðõ‘¥ÍÑ…¹”ðõÍlÉ…‘¥ÕÌt©Ð¹5%1è4(€€€€€€€€€€€€€€€½¹Ñ¥¹Õ”4(€€€€€€€€€€€ÑÉäè4(€€€€€€€€€€€€€€€±½ÍÍ•ÌõÐ¹…ÍÍ•ÍÌ¡‘•´±Íl½É¥¥¸t±Á½¥¹Ð±Íl¡•¥¡ÑÌt±Íl¡…¹‘¡•±t±ÍlÉ…‘¥¼ulÁt¥l±½ÍÍ•Ìt4(€€€€€€€€€€€•á•ÁÐÐ¹5¥ÍÍ¥¹±•Ù…Ñ¥½¸è4(€€€€€€€€€€€€€€€±½ÍÍ•Ìõl¡9½¹”°±•Ù…Ñ¥½¸…Àœ¥t©±•¸¡Íl¡•¥¡ÑÌt¤4(€€€€€€€€€€€É¥¹…ÁÁ•¹¡‘¥Ð¡Á½¥¹ÐõÁ½¥¹Ð±àõ½°¼¡¸´Ä¤±äõÉ½Ü¼¡¸´Ä¤±±½ÍÍ•Ìõ±½ÍÍ•Ì¤¤4(€€€ÉlÉ¥tõÉ¥4(€€€ÉlÉ¥‘}ÍÁ…¥¹œtôÈ©ÍlÉ…‘¥ÕÌt¼¡¸´Ä¤4(€€€ÑÉäè4(€€€€€€€ÁÉ½É•ÍÌ 1½…‘¥¹œ•½É…Á¡¥Œ½Ù•É…”‰…Í•µ…À¸¸¸œ¤4(€€€€€€€‰…­É½Õ¹õµ…ÁÌ¹ÍÅÕ…É”¡Íl½É¥¥¸t±ÍlÉ…‘¥ÕÌt±Ð¹É•ÅÕ•ÍÐ°MÑÉ••Ðœ¤4(€€€•á•ÁÐ€¡=MÉÉ½È±Y…±Õ•ÉÉ½È¤è4(€€€€€€€‰…­É½Õ¹õ‘¥Ð¡¥µ…”õ%µ…”¹¹•Ü Iœ° àÀÀ°àÀÀ¤°œÅÐœ¤±‰½Õ¹‘Ìõ‰½Õ¹‘Ì°4(€€€€€€€€€€€€€€€€€€€€€€€É•‘¥Ðô	…Í•µ…ÀÕ¹…Ù…¥±…‰±”ì•½É…Á¡¥ŒÍ…µÁ±”Á½Í¥Ñ¥½¹ÌÉ•Ñ…¥¹•œ±Í½ÕÉ”ôœœ±™•Ñ¡•ôœ´œ¤4(€€€ÁÉ½É•ÍÌ …Ñ„è½Ù•É…”‰…Í•µ…À€´€œ¬ ½Ý¹±½…‘•œ¥˜‰…­É½Õ¹‘l™•Ñ¡•t„ôœ´œ•±Í”€U¹…Ù…¥±…‰±”œ¤¤4(€€€Él½Ù•É±…å}‰…Í”tõ‰…­É½Õ¹4(€€€Él½Ù•É±…åÌtõmt4(€€€™½È¤± ¥¸•¹Õµ•É…Ñ”¡Íl¡•¥¡ÑÌt¤è4(€€€€€€€¥µ…”õ‰…­É½Õ¹‘l¥µ…”t¹½¹Ù•ÉÐ I	œ¤4(€€€€€€€±…å•Èõ%µ…”¹¹•Ü I	œ±¥µ…”¹Í¥é”¤4(€€€€€€€‘É…Üõ%µ…•É…Ü¹É…Ü¡±…å•È¤4(€€€€€€€™½È•±°¥¸É¥è4(€€€€€€€€€€€±½ÍÌõ•±±l±½ÍÍ•Ìum¥ulÁt4(€€€€€€€€€€€µ…É¥¸õµ…É¥¹Ì¡±½ÍÌ±Íl‰Õ‘•Ðt±QÉÕ”¥lÉt¥˜±½ÍÌ¥Ì¹½Ð9½¹”•±Í”9½¹”4(€€€€€€€€€€€½±½Èô À°ÄÄÀ°àÔ°ÄàÔ¤¥˜µ…É¥¸¥Ì¹½Ð9½¹”…¹µ…É¥¸øõÍl‰Õ‘•ÐulÉ•Í•ÉÙ”t•±Í”€ ÄäÔ°ÄÐà°ÌÀ°ÄàÔ¤¥˜µ…É¥¸¥Ì¹½Ð9½¹”…¹µ…É¥¸øôÀ•±Í”€ ÄÜà°ØÌ°ÐÀ°ÄàÔ¤¥˜µ…É¥¸¥Ì¹½Ð9½¹”•±Í”€ ÄÌÀ°ÄÌÀ°ÄÌÀ°ÄàÔ¤4(€€€€€€€€€€€à±äõ•±±làt¨àÀÀ±•±±lät¨àÀÀ4(€€€€€€€€€€€Í¥é”õµ…à Ì°àÀÀ¼¡¸´Ä¤¨¸Ìà¤4(€€€€€€€€€€€‘É…Ü¹É•Ñ…¹±” ¡àµÍ¥é”±äµÍ¥é”±à­Í¥é”±ä­Í¥é”¤±™¥±°õ½±½È¤4(€€€€€€€‘É…Ü¹•±±¥ÁÍ”  ÌäÐ°ÌäÐ°ÐÀØ°ÐÀØ¤±™¥±°ôÝ¡¥Ñ”œ±½ÕÑ±¥¹”ô‰±…¬œ±Ý¥‘Ñ ôÈ¤4(€€€€€€€Él½Ù•É±…åÌt¹…ÁÁ•¹¡%µ…”¹…±Á¡…}½µÁ½Í¥Ñ”¡¥µ…”±±…å•È¤¹½¹Ù•ÉÐ Iœ¤¤4(€€€Él™¥•±tõmt4(€€€™½È¨±¥Ñ•´¥¸•¹Õµ•É…Ñ”¡Ílµ•…ÍÕÉ•µ•¹ÑÌt¤è4(€€€€€€€¥˜¨”ÔÀôôÀè4(€€€€€€€€€€€ÁÉ½É•ÍÌ¡˜5½‘•±¥¹œ™¥•±µÑ•ÍÐÁ½¥¹ÑÌèí¨¬Åô½˜í±•¸¡Íl‰µ•…ÍÕÉ•µ•¹ÑÌ‰t¥ô¸¸¸œ¤4(€€€€€€€¥Ñ•´õ‘¥Ð¡¥Ñ•´¤4(€€€€€€€Á½¥¹Ðô¡¥Ñ•µl±…Ñ¥ÑÕ‘”t±¥Ñ•µl±½¹¥ÑÕ‘”t¤4(€€€€€€€¥Ñ•µlÁÉ•‘¥Ñ¥½¸tõ9½¹”4(€€€€€€€¥˜€ÄÀÔðõÐ¹‘¥ÍÑ…¹”¡Íl½É¥¥¸t±Á½¥¹Ð¤ðõÍlÉ…‘¥ÕÌt©Ð¹5%1è4(€€€€€€€€€€€ÑÉäè4(€€€€€€€€€€€€€€€¥Ñ•µlÁÉ•‘¥Ñ¥½¸tõÐ¹…ÍÍ•ÍÌ¡‘•´±Íl½É¥¥¸t±Á½¥¹Ð±Íl¡•¥¡ÑÌt±Íl¡…¹‘¡•±t±ÍlÉ…‘¥¼ulÁt¥l±½ÍÍ•Ìt4(€€€€€€€€€€€—]6ÒÚ$z{-®éÜj×öæS Ð¢f–Æ&ÆR³ÓÐ¢76VB³ÖÖ&v–ç2†Æ÷72Ç5²v'VFvWBuÒÇF…²v¶–æBuÓÓÒt†æF†VÆBr•³%Óã×5²v'VFvWBuÕ²w&W6W'fRuÐÐ¢&÷w2æVæB…·66Væ&–õ²væÖRuÒÆbw¶‚÷BädôõC¦wÒgBrÆbw·76VGÒò·%²&6öÖÖöåö6÷VçB%×ÒrÀÐ¢t–æ6ö×ÆWFRr–b66Væ&–õ²vW'&÷"uÒ÷"f–Æ&ÆSÇ%²v6öÖÖöåö6÷VçBuÒVÇ6Rt6ö×ÆWFRuÒÐ¢&WGW&â&÷w0Ð Ð Ð¦FVbÆö6F–öå÷&Vv—7FW"‡2Ç"“ Ð¢Æö6F–öç3Õ¶F–7B†çVÖ&W#ÓÆæÖS×5²w6—FRuÒÇö–çC×5²v÷&–v–âuÒÆ¶–æCÒu&–Ö'’7FF–öâr•ÐÐ¢f÷"æÖRÇö–çBÇ'‚Æ¶–æBÇ6VVâ–â%²u÷F&vWG2uÓ Ð¢Æö6F–öç2æVæB†F–7B†çVÖ&W#ÖÆVâ†Æö6F–öç2’³ÆæÖSÖæÖRÇö–çC×ö–çBÆ¶–æCÖ¶–æBÇ'ƒ×'‚’Ð¢f÷"æÖRÇö–çB–â5²vÇFW&æF—fW2uÓ Ð¢Æö6F–öç2æVæB†F–7B†çVÖ&W#ÖÆVâ†Æö6F–öç2’³ÆæÖSÖæÖRÇö–çC×ö–çBÆ¶–æCÒt6æF–FFR7FF–öâr’Ð¢&WGW&âÆö6F–öç0Ð Ð Ð¦FVbFWÆ÷–ÖVçEö&6VÖ‡2Ç"Ç&öw&W72“ Ð¢2f—BÆÂæÖVBVæGö–çG3²F†—2÷fW'f–WrW‡FVçB—2F—7F–æ7Bg&öÒF†R6÷fW&vR&F—W2àÐ¢ö–çG3Õ·&÷u²wö–çBuÒf÷"&÷r–â%²vÖöÆö6F–öç2uÕÐÐ¢Væ—CÖÖ2ç7V&UövVöÖWG'’‡5²v÷&–v–âuÒÃÐ¢‡“Õ¶Ö2çö–çEööåöÖ‡Væ—BÇ’f÷"–âö–çG5ÐÐ¢‡2Ç—3×¦—‚§‡’Ð¢6VçFW#ÖÖ2æÖ÷ö–çB‡Væ—BÂ†Ö–â‡‡2’¶Ö‚‡‡2’’ó"Â†Ö–â‡—2’¶Ö‚‡—2’’ó"Ð¢†ÆcÖÖ‚‚ãRÆÖ‚†Ö‚‡‡2’ÖÖ–â‡‡2’ÆÖ‚‡—2’ÖÖ–â‡—2’’£ã‚Ð¢26öçfW'BF†R÷&–v–æÂ6VçFW"w2&ö¦V7FVBÖ–ÆRFòÖ–ÆRBF†Rf—GFVB6VçFW"àÐ¢–×÷'BÖF€Ð¢&F—W3Ö†Æb¦ÖF‚æ6÷2†ÖF‚ç&F–ç2†6VçFW%³Ò’’öÖF‚æ6÷2†ÖF‚ç&F–ç2‡5²v÷&–v–âuÕ³Ò’Ð¢&÷VæG3ÖÖ2ç7V&UövVöÖWG'’†6VçFW"Ç&F—W2Ð¢&öw&W72‚tÆöF–ærææ÷FFVBFWÆ÷–ÖVçB&6VÖââârÐ¢&W7VÇCÔæöæPÐ¢W†—7F–æs×"ævWB‚v÷fW&Æ•ö&6RrÐ¢–bW†—7F–æræBÆÂƒÃ×cÃÓf÷"–âö–çG2f÷"b–âÖ2çö–çEööåöÖ†W†—7F–æu²v&÷VæG2uÒÇ’“ Ð¢&W7VÇCÖF–7B†W†—7F–ærÐ¢&öw&W72‚tFF¢&WW6VB6÷fW&vR&6VÖf÷"çVÖ&W&VB6—FR÷fW'f–WrrÐ¢f÷"Æ–W"–â‚‚’–b&W7VÇBVÇ6R‚u7G&VWBrÂu7G&VWBrÂuF÷òr’“ Ð¢G'“ Ð¢&W7VÇCÖÖ2ç7V&R†6VçFW"Ç&F—W2ÇBç&WVW7BÆÆ–W"Ð¢'&V°Ð¢W†6WB„õ4W'&÷"ÅfÇVTW'&÷"“ Ð¢&öw&W72†btFF¢FWÆ÷–ÖVçB¶Æ–W"æÆ÷vW"‚—ÒÖVæf–Æ&ÆS²G'––æræ÷F†W"&WVW7BââârÐ¢–b&W7VÇB—2æöæS Ð¢&W7VÇCÖF–7B†–ÖvSÔ–ÖvRææWr‚u$t"rÂƒƒÃƒ’Âr4TDccBr’Æ&÷VæG3Ö&÷VæG2ÀÐ¢7&VF—CÒt&6VÖVæf–Æ&ÆS²vVöw&†–2÷6—F–öç2&WF–æVBrÇ6÷W&6SÒrrÆfWF6†VCÒrÒrÐ¢&W7VÇE²v6VçFW"uÓÖ6VçFW Ð¢&W7VÇE²w&F—W2uÓ×&F—W0Ð¢&öw&W72‚tFF¢FWÆ÷–ÖVçB&6VÖÒr²‚tF÷væÆöFVBr–b&W7VÇE²vfWF6†VBuÒÒrÒrVÇ6RuVæf–Æ&ÆRr’Ð¢%²w&÷fVææ6RuÕ²tFWÆ÷–ÖVçB&6VÖuÓÒ‚tF÷væÆöFVBr–b&W7VÇE²vfWF6†VBuÒÒrÒrVÇ6RuVæf–Æ&ÆRrÇ&W7VÇE²vfWF6†VBuÒÐ¢&WGW&â&W7VÇ@Ð Ð Ð¦FVb–×&÷fVÖVçEö6FVv÷'’†&6UöÆ÷72Æ6æF–FFUöÆ÷72Æ'VFvWB“ Ð¢–b&6UöÆ÷72—2æöæR÷"6æF–FFUöÆ÷72—2æöæS Ð¢&WGW&âwVæ¶æ÷vâpÐ¢&Vf÷&SÖÖ&v–ç2†&6UöÆ÷72Æ'VFvWBÅG'VR•³%ÓãÖ'VFvWE²w&W6W'fRuÐÐ¢gFW#ÖÖ&v–ç2†6æF–FFUöÆ÷72Æ'VFvWBÅG'VR•³%ÓãÖ'VFvWE²w&W6W'fRuÐÐ¢&WGW&âw&WF–æVBr–b&Vf÷&RæBgFW"VÇ6Rvv–æVBr–bgFW"VÇ6RvÆ÷7Br–b&Vf÷&RVÇ6RvæV—F†W"pÐ 
+"""Geographic sampling and comparable deployment scenarios."""
+import terrain as t
+from datetime import datetime,timezone
+import context_maps as maps
+from planning import margins
+from PIL import Image, ImageDraw
+
+def enhance(s,r,progress):
+    dem=r.pop('_dem')
+    bounds=maps.square_geometry(s['origin'],s['radius'])
+    n=25 if s['quality']=='Quick' else 51
+    grid=[]
+    for row in range(n):
+        progress(f"Geographic {s['quality'].lower()} coverage: row {row+1} of {n}...")
+        for col in range(n):
+            point=maps.map_point(bounds,col/(n-1),row/(n-1))
+            distance=t.distance(s['origin'],point)
+            if not 105<=distance<=s['radius']*t.MILE:
+                continue
+            try:
+                losses=t.assess(dem,s['origin'],point,s['heights'],s['handheld'],s['radio'][0])['losses']
+            except t.MissingElevation:
+                losses=[(None,'Elevation gap')]*len(s['heights'])
+            grid.append(dict(point=point,x=col/(n-1),y=row/(n-1),losses=losses))
+    r['grid']=grid
+    r['grid_spacing']=2*s['radius']/(n-1)
+    try:
+        progress('Loading geographic coverage basemap...')
+        background=maps.square(s['origin'],s['radius'],t.request,'Street')
+    except (OSError,ValueError):
+        background=dict(image=Image.new('RGB',(800,800),'#EDF1F4'),bounds=bounds,
+                        credit='Basemap unavailable; geographic sample positions retained',source='',fetched='-')
+    progress('Data: Coverage basemap - '+('Downloaded' if background['fetched']!='-' else 'Unavailable'))
+    r['overlay_base']=background
+    r['overlays']=[]
+    for i,h in enumerate(s['heights']):
+        image=background['image'].convert('RGBA')
+        layer=Image.new('RGBA',image.size)
+        draw=ImageDraw.Draw(layer)
+        for cell in grid:
+            loss=cell['losses'][i][0]
+            margin=margins(loss,s['budget'],True)[2] if loss is not None else None
+            color=(0,110,85,185) if margin is not None and margin>=s['budget']['reserve'] else (195,148,30,185) if margin is not None and margin>=0 else (178,63,40,185) if margin is not None else (130,130,130,185)
+            x,y=cell['x']*800,cell['y']*800
+            size=max(3,800/(n-1)*.38)
+            draw.rectangle((x-size,y-size,x+size,y+size),fill=color)
+        draw.ellipse((394,394,406,406),fill='white',outline='black',width=2)
+        r['overlays'].append(Image.alpha_composite(image,layer).convert('RGB'))
+    r['field']=[]
+    for j,item in enumerate(s['measurements']):
+        if j%50==0:
+            progress(f'Modeling field-test points: {j+1} of {len(s["measurements"])}...')
+        item=dict(item)
+        point=(item['latitude'],item['longitude'])
+        item['prediction']=None
+        if 105<=t.distance(s['origin'],point)<=s['radius']*t.MILE:
+            try:
+                item['prediction']=t.assess(dem,s['origin'],point,s['heights'],s['handheld'],s['radio'][0])['losses']
+            except t.MissingElevation:
+                pass
+        r['field'].append(item)
+    r['scenarios']=[dict(name=s['site'],paths=r['paths'],error='',origin=s['origin'])]
+    common=r['_targets']
+    r['map_locations']=location_register(s,r)
+    r['deployment_base']=deployment_basemap(s,r,progress)
+    for name,point in s['alternatives']:
+        progress(f'Comparing candidate site: {name}...')
+        scenario=dict(name=name,origin=point,paths=[],error='',grid_losses=[[(None,'Not assessed')]*len(s['heights']) for cell in grid])
+        try:
+            if any(not 105<=t.distance(point,dest)<=40*t.MILE for _,dest,_,_,_ in common):
+                raise ValueError('A common destination is outside the supported 345 ft to 40 mi path range.')
+            def record(status,timestamp):
+                progress(f'Data: Candidate terrain {name} - {status}')
+                if status in ('Downloading','Retrying download'):
+                    return
+                r['provenance']['Candidate terrain: '+name]=(status,datetime.fromtimestamp(timestamp,timezone.utc).strftime('%Y-%m-%d %H:%M UTC'))
+            def read_cache(url,filename,ttl=None):
+                return t.cached(url,filename,ttl,record)
+            supported=[cell['point'] for cell in grid if 105<=t.distance(point,cell['point'])<=40*t.MILE]
+            other=t.load_dem(point,max(t.LOS_RADIUS,s['radius']*t.MILE),[x[1] for x in common]+supported,read_cache)
+            import math
+            scenario['spacing']=(other.dx*111195*math.cos(math.radians(point[0])),other.dy*111195)
+            for label,dest,rx,kind,seen in common:
+                try:
+                    path=t.assess(other,point,dest,s['heights'],rx,s['radio'][0],True)
+                    scenario['paths'].append(dict(name=label,point=dest,rx=rx,kind=kind,seen=seen,**path))
+                except t.MissingElevation:
+                    scenario['error']='One or more destination paths cross missing terrain.'
+            for cell_index,cell in enumerate(grid):
+                if cell_index%25==0:
+                    progress(f'Comparing candidate coverage: {name}, sample {cell_index+1} of {len(grid)}...')
+                if not 105<=t.distance(point,cell['point'])<=40*t.MILE:
+                    continue
+                try:
+                    scenario['grid_losses'][cell_index]=t.assess(other,point,cell['point'],s['heights'],s['handheld'],s['radio'][0])['losses']
+                except t.MissingElevation:
+                    scenario['grid_losses'][cell_index]=[(None,'Elevation gap')]*len(s['heights'])
+        except (OSError,ValueError,t.MissingElevation) as error:
+            scenario['error']=str(error)
+        r['scenarios'].append(scenario)
+    r['common_count']=len(common)
+
+
+def scenario_rows(s,r):
+    rows=[]
+    for scenario in r['scenarios']:
+        for i,h in enumerate(s['heights']):
+            passed=available=0
+            for path in scenario['paths']:
+                loss=path['losses'][i][0]
+                if loss is not None:
+                    available+=1
+                    passed+=margins(loss,s['budget'],path['kind']=='Handheld')[2]>=s['budget']['reserve']
+            rows.append([scenario['name'],f'{h/t.FOOT:g} ft',f'{passed} / {r["common_count"]}',
+                         'Incomplete' if scenario['error'] or available<r['common_count'] else 'Complete'])
+    return rows
+
+
+def location_register(s,r):
+    locations=[dict(number=1,name=s['site'],point=s['origin'],kind='Primary station')]
+    for name,point,rx,kind,seen in r['_targets']:
+        locations.append(dict(number=len(locations)+1,name=name,point=point,kind=kind,rx=rx))
+    for name,point in s['alternatives']:
+        locations.append(dict(number=len(locations)+1,name=name,point=point,kind='Candidate station'))
+    return locations
+
+
+def deployment_basemap(s,r,progress):
+    # Fit all named endpoints; this overview extent is distinct from the coverage radius.
+    points=[row['point'] for row in r['map_locations']]
+    unit=maps.square_geometry(s['origin'],1)
+    xy=[maps.point_on_map(unit,p) for p in points]
+    xs,ys=zip(*xy)
+    center=maps.map_point(unit,(min(xs)+max(xs))/2,(min(ys)+max(ys))/2)
+    half=max(.5,max(max(xs)-min(xs),max(ys)-min(ys))*1.18)
+    # Convert the original center's projected mile to a mile at the fitted center.
+    import math
+    radius=half*math.cos(math.radians(center[0]))/math.cos(math.radians(s['origin'][0]))
+    bounds=maps.square_geometry(center,radius)
+    progress('Loading annotated deployment basemap...')
+    result=None
+    existing=r.get('overlay_base')
+    if existing and all(0<=v<=1 for p in points for v in maps.point_on_map(existing['bounds'],p)):
+        result=dict(existing)
+        progress('Data: Reused coverage basemap for numbered site overview')
+    for layer in (() if result else ('Street','Street','Topo')):
+        try:
+            result=maps.square(center,radius,t.request,layer)
+            break
+        except (OSError,ValueError):
+            progress(f'Data: Deployment {layer.lower()} map unavailable; trying another request...')
+    if result is None:
+        result=dict(image=Image.new('RGB',(800,800),'#EDF1F4'),bounds=bounds,
+                    credit='Basemap unavailable; geographic positions retained',source='',fetched='-')
+    result['center']=center
+    result['radius']=radius
+    progress('Data: Deployment basemap - '+('Downloaded' if result['fetched']!='-' else 'Unavailable'))
+    r['provenance']['Deployment basemap']=('Downloaded' if result['fetched']!='-' else 'Unavailable',result['fetched'])
+    return result
+
+
+def improvement_category(base_loss,candidate_loss,budget):
+    if base_loss is None or candidate_loss is None:
+        return 'unknown'
+    before=margins(base_loss,budget,True)[2]>=budget['reserve']
+    after=margins(candidate_loss,budget,True)[2]>=budget['reserve']
+    return 'retained' if before and after else 'gained' if after else 'lost' if before else 'neither'

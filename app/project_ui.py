@@ -1,1 +1,133 @@
-YªçŠx-®éÜj×¢ëiºÚ+Š§j[h‘éÜ¢éíÛŸtN‹Z–‹­¦ëeŠw¬Ôˆˆ‰AÉ½©•ÐÑ½½±Ì…¹‘•Ñ…¥±•É•ÍÕ±ÑÌ™½È=¹”±¥¬5•Í ¸ˆˆˆ4)¥µÁ½ÉÐÑ­¥¹Ñ•È…ÌÑ¬4)™É½´Ñ­¥¹Ñ•È¥µÁ½ÉÐÑÑ¬°™¥±•‘¥…±½œ4)¥µÁ½ÉÐÁ±…¹¹¥¹œ4)™É½´Ñ•ÉÉ…¥¸¥µÁ½ÉÐ==P4)™É½´Á±…¹¹¥¹œ¥µÁ½ÉÐµ…É¥¹Ì4(4)±…ÍÌQ½½±Ìè4(€€€‘•˜Í¹…ÁÍ¡½Ð¡Í•±˜¤è4(€€€€€€€É•ÑÕÉ¸‘¥Ð¡™¥•±‘Ìõí¬éØ¹•Ð ¤™½È¬±Ø¥¸Í•±˜¹™¥•±‘Ì¹¥Ñ•µÌ ¥ô±Ñ…É•ÑÌõÍ•±˜¹Ñ…É•ÑÌ¹•Ð œÄ¸Àœ°•¹œ¤¹ÍÑÉ¥À ¤°4(€€€€€€€€€€€€€€€€€€€…±Ñ•É¹…Ñ¥Ù•ÌõÍ•±˜¹…±Ñ•É¹…Ñ¥Ù•Í}Ñ•áÐ¹•Ð ¤±ÅÕ…±¥ÑäõÍ•±˜¹ÅÕ…±¥Ñä¹•Ð ¤±™½±‘•ÈõÍ•±˜¹™½±‘•È¹•Ð ¤°4(€€€€€€€€€€€€€€€€€€€‘¥Í½Ù•ÈõÍ•±˜¹‘¥Í½Ù•È¹•Ð ¤±µ•…ÍÕÉ•µ•¹ÑÌõÍ•±˜¹µ•…ÍÕÉ•µ•¹ÑÌ±•áÑ•¹‘•‘}É…‘¥ÕÌõÍ•±˜¹•áÑ•¹‘•‘}É…‘¥ÕÌ¹•Ð ¤¤4(4(€€€‘•˜…ÁÁ±å}ÁÉ½©•Ð¡Í•±˜±‘…Ñ„¤è4(€€€€€€€™½È­•ä±Ù…±Õ”¥¸‘…Ñ…l™¥•±‘Ìt¹¥Ñ•µÌ ¤è4(€€€€€€€€€€€¥˜­•ä¥¸Í•±˜¹™¥•±‘Ìè4(€€€€€€€€€€€€€€€Í•±˜¹™¥•±‘Ím­•åt¹Í•Ð¡Ù…±Õ”¤4(€€€€€€€Í•±˜¹Ñ…É•ÑÌ¹‘•±•Ñ” œÄ¸Àœ°•¹œ¤4(€€€€€€€Í•±˜¹Ñ…É•ÑÌ¹¥¹Í•ÉÐ œÄ¸Àœ±‘…Ñ„¹•Ð Ñ…É•ÑÌœ°œœ¤¤4(€€€€€€€Í•±˜¹…±Ñ•É¹…Ñ¥Ù•Í}Ñ•áÐ¹Í•Ð¡‘…Ñ„¹•Ð …±Ñ•É¹…Ñ¥Ù•Ìœ°œœ¤¤4(€€€€€€€Í•±˜¹ÅÕ…±¥Ñä¹Í•Ð¡‘…Ñ„¹•Ð ÅÕ…±¥Ñäœ°EÕ¥¬œ¤¤4(€€€€€€€Í•±˜¹•áÑ•¹‘•‘}É…‘¥ÕÌ¹Í•Ð¡‘…Ñ„¹•Ð •áÑ•¹‘•‘}É…‘¥ÕÌœ±…±Í”¤¤4(€€€€€€€Í•±˜¹™½±‘•È¹Í•Ð¡‘…Ñ„¹•Ð ™½±‘•Èœ±Í•±˜¹™½±‘•È¹•Ð ¤¤¤4(€€€€€€€Í•±˜¹‘¥Í½Ù•È¹Í•Ð¡‘…Ñ…l‘¥Í½Ù•Èt¤4(€€€€€€€Í•±˜¹µ•…ÍÕÉ•µ•¹ÑÌõ‘…Ñ„¹•Ð µ•…ÍÕÉ•µ•¹ÑÌœ±mt¤4(4(€€€‘•˜Í…Ù•}ÁÉ½©•Ð¡Í•±˜¤è4(€€€€€€€Á…Ñ õ™¥±•‘¥…±½œ¹…Í­Í…Ù•…Í™¥±•¹…µ”¡Á…É•¹ÐõÍ•±˜¹É½½Ð±‘•™…Õ±Ñ•áÑ•¹Í¥½¸ôœ¹½´¹©Í½¸œ±™¥±•ÑåÁ•Ìõl =¹”±¥¬5•Í ÁÉ½©•Ðœ°œ¨¹©Í½¸œ¥t¤4(€€€€€€€¥˜Á…Ñ è4(€€€€€€€€€€€ÑÉäè4(€€€€€€€€€€€€€€€Á±…¹¹¥¹œ¹ÝÉ¥Ñ•}ÁÉ½©•Ð¡Á…Ñ ±Í•±˜¹Í¹…ÁÍ¡½Ð ¤¤4(€€€€€€€€€€€€€€€Í•±˜¹ÍÑ…ÑÕÌ¹Í•Ð AÉ½©•ÐÍ…Ù•°¥¹±Õ‘¥¹œ¥µÁ½ÉÑ•™¥•±µ•…ÍÕÉ•µ•¹ÑÌ¸œ¤4(€€€€€€€€€€€•á•ÁÐ€¡=MÉÉ½È±Y…±Õ•ÉÉ½È¤…Ì•ÉÉ½Èè4(€€€€€€€€€€€€€€€Í•±˜¹ÍÑ…ÑÕÌ¹Í•Ð¡ÍÑÈ¡•ÉÉ½È¤¤4(4(€€€‘•˜±½…‘}ÁÉ½©•Ð¡Í•±˜¤è4(€€€€€€€¥˜Í•±˜¹ÉÕ¹¹¥¹œè4(€€€€€€€€€€€Í•±˜¹ÍÑ…ÑÕÌ¹Í•Ð ]…¥Ð™½ÈÑ¡”ÕÉÉ•¹Ð…ÍÍ•ÍÍµ•¹Ð‰•™½É”½Á•¹¥¹œ…¹½Ñ¡•ÈÁÉ½©•Ð¸œ¤4(€€€€€€€€€€€É•ÑÕÉ¸4(€€€€€€€Á…Ñ õ™¥±•‘¥…±½œ¹…Í­½Á•¹™¥±•¹…µ”¡Á…É•¹ÐõÍ•±˜¹É½½Ð±™¥±•ÑåÁ•Ìõl =¹”±¥¬5•Í ÁÉ½©•Ðœ°œ¨¹©Í½¸œ¥t¤4(€€€€€€€¥˜Á…Ñ è4(€€€€€€€€€€€½±õÍ•±˜¹Í¹…ÁÍ¡½Ð ¤4(€€€€€€€€€€€ÑÉäè4(€€€€€€€€€€€€€€€‘…Ñ„õÁ±…¹¹¥¹œ¹É•…‘}ÁÉ½©•Ð¡Á…Ñ ¤4(€€€€€€€€€€€€€€€Á±…¹¹¥¹œ¹…±Ñ•É¹…Ñ¥Ù•Ì¡‘…Ñ„¹•Ð …±Ñ•É¹…Ñ¥Ù•Ìœ°œœ¤¤4(€€€€€€€€€€€€€€€¥˜‘…Ñ„¹•Ð ÅÕ…±¥Ñäœ°EÕ¥¬œ¤¹½Ð¥¸€ EÕ¥¬œ°•Ñ…¥±•œ¤è4(€€€€€€€€€€€€€€€€€€€É…¥Í”Y…±Õ•ÉÉ½È U¹­¹½Ý¸Í…µÁ±¥¹œÅÕ…±¥Ñä¸œ¤4(€€€€€€€€€€€€€€€Í•±˜¹…ÁÁ±å}ÁÉ½©•Ð¡‘…Ñ„¤4(€€€€€€€€€€€€€€€Í•±˜¹ÍÑ…ÑÕÌ¹Í•Ð AÉ½©•Ð±½…‘•¸•¹•É…Ñ”…ÍÍ•ÍÍµ•¹ÐÑ¼É•™É•Í ÁÉ•‘¥Ñ¥½¹Ì¸œ¤4(€€€€€€€€€€€•á•ÁÐ€¡=MÉÉ½È±Y…±Õ•ÉÉ½È±QåÁ•ÉÉ½È±-•åÉÉ½È±ÑÑÉ¥‰ÕÑ•ÉÉ½È¤…Ì•ÉÉ½Èè4(€€€€€€€€€€€€€€€Í•±˜¹…ÁÁ±å}ÁÉ½©•Ð¡½±¤4(€€€€€€€€€€€€€€€Í•±˜¹ÍÑ…ÑÕÌ¹Í•Ð¡˜AÉ½©•Ð½Õ±¹½Ð‰”½Á•¹•èí•ÉÉ½Éôœ¤4(4(€€€‘•˜Á±…¹¹¥¹}Ñ½½±Ì¡Í•±˜¤è4(€€€€€€€Ý¥¸õÑ¬¹Q½Á±•Ù•°¡Í•±˜¹É½½Ð¤4(€€€€€€€Ý¥¸¹Ñ¥Ñ±” =¹”±¥¬5•Í ð•Á±½åµ•¹ÐÁ±…¹¹¥¹œœ¤4(€€€€€€€™É…µ”õÑÑ¬¹É…µ”¡Ý¥¸±Á…‘‘¥¹œôÄà¤4(€€€€€€€™É…µ”¹Á…¬¡™¥±°ô‰½Ñ œ±•áÁ…¹õQÉÕ”¤4(€€€€€€€ÑÑ¬¹1…‰•°¡™É…µ”±Ñ•áÐô½µÁ…É”ÕÀÑ¼ÑÝ¼…‘‘¥Ñ¥½¹…°Í¥Ñ•Ì……¥¹ÍÐÑ¡”Í…µ”‘•ÍÑ¥¹…Ñ¥½¹Ì¸œ¤¹Á…¬¡…¹¡½ÈôÜœ¤4(€€€€€€€ÑÑ¬¹1…‰•°¡™É…µ”±Ñ•áÐô=¹”Á•È±¥¹”è9…µ”°±…ÓŸt¶‰žËkºwµçTôAÉ¥µ…Éä¹Q	ÕÑÑ½¸œ¤¹Á…¬¡…¹¡½Èô”œ¤4(4(€€€‘•˜¥¹ÍÁ•Ñ}É•ÍÕ±ÑÌ¡Í•±˜¤è4(€€€€€€€¥˜¹½Ð•Ñ…ÑÑÈ¡Í•±˜°±…ÍÑ}É•ÍÕ±Ðœ±9½¹”¤è4(€€€€€€€€€€€Í•±˜¹ÍÑ…ÑÕÌ¹Í•Ð •¹•É…Ñ”…¸…ÍÍ•ÍÍµ•¹Ð™¥ÉÍÐ¸œ¤4(€€€€€€€€€€€É•ÑÕÉ¸4(€€€€€€€Ì±ÈõÍ•±˜¹±…ÍÑ}É•ÍÕ±Ð4(€€€€€€€Ý¥¸õÑ¬¹Q½Á±•Ù•°¡Í•±˜¹É½½Ð¤4(€€€€€€€Ý¥¸¹Ñ¥Ñ±” =¹”±¥¬5•Í ðA…Ñ ¥¹ÍÁ•Ñ½Èœ¤4(€€€€€€€Ý¥¸¹•½µ•ÑÉä œäÔÁàØÔÀœ¤4(€€€€€€€™É…µ”õÑÑ¬¹É…µ”¡Ý¥¸±Á…‘‘¥¹œôÄÔ¤í™É…µ”¹Á…¬¡™¥±°ô‰½Ñ œ±•áÁ…¹õQÉÕ”¤4(€€€€€€€ÑÑ¬¹1…‰•°¡™É…µ”±Ñ•áÐôM•±•Ð„‘•ÍÑ¥¹…Ñ¥½¸Ñ¼¥¹ÍÁ•Ð‰½Ñ ‘¥É•Ñ¥½¹Ì…¹Ñ•ÉÉ…¥¸±•…É…¹”¸œ¤¹Á…¬¡…¹¡½ÈôÜœ¤4(€€€€€€€ÍÁ±¥ÐõÑÑ¬¹A…¹•‘Ý¥¹‘½Ü¡™É…µ”±½É¥•¹Ðô¡½É¥é½¹Ñ…°œ¤íÍÁ±¥Ð¹Á…¬¡™¥±°ô‰½Ñ œ±•áÁ…¹õQÉÕ”±Á…‘äôÄÀ¤4(€€€€€€€±•™ÐõÑÑ¬¹É…µ”¡ÍÁ±¥Ð¤íÉ¥¡ÐõÑÑ¬¹É…µ”¡ÍÁ±¥Ð¤íÍÁ±¥Ð¹…‘¡±•™Ð±Ý•¥¡ÐôÄ¤íÍÁ±¥Ð¹…‘¡É¥¡Ð±Ý•¥¡ÐôÌ¤4(€€€€€€€±¥ÍÑ¥¹œõÑ¬¹1¥ÍÑ‰½à¡±•™Ð±Ý¥‘Ñ ôÌÀ±•áÁ½ÉÑÍ•±•Ñ¥½¸õ…±Í”¤í±¥ÍÑ¥¹œ¹Á…¬¡™¥±°ô‰½Ñ œ±•áÁ…¹õQÉÕ”¤4(€€€€€€€‘•Ñ…¥±ÌõÑ¬¹Q•áÐ¡É¥¡Ð±ÝÉ…ÀôÝ½Éœ±™½¹Ðô M•½”U$œ°ÄÄ¤±Á…‘àôÄÈ±Á…‘äôÄÈ¤4(€€€€€€€ÍÉ½±°õÑÑ¬¹MÉ½±±‰…È¡É¥¡Ð±½µµ…¹õ‘•Ñ…¥±Ì¹åÙ¥•Ü¤íÍÉ½±°¹Á…¬¡Í¥‘”ôÉ¥¡Ðœ±™¥±°ôäœ¤4(€€€€€€€‘•Ñ…¥±Ì¹½¹™¥ÕÉ”¡åÍÉ½±±½µµ…¹õÍÉ½±°¹Í•Ð¤í‘•Ñ…¥±Ì¹Á…¬¡™¥±°ô‰½Ñ œ±•áÁ…¹õQÉÕ”¤4(€€€€€€€•¹ÑÉ¥•Ìõmt4(€€€€€€€™½ÈÍ•¹…É¥¼¥¸ÉlÍ•¹…É¥½Ìtè4(€€€€€€€€€€€™½ÈÁ…Ñ ¥¸Í•¹…É¥½lÁ…Ñ¡Ìtè4(€€€€€€€€€€€€€€€•¹ÑÉ¥•Ì¹…ÁÁ•¹ ¡Í•¹…É¥¼±Á…Ñ ¤¤4(€€€€€€€€€€€€€€€±¥ÍÑ¥¹œ¹¥¹Í•ÉÐ •¹œ±˜íÍ•¹…É¥½l‰¹…µ”‰uôèíÁ…Ñ¡l‰¹…µ”‰uôœ¤4(€€€€€€€‘•˜Í•±•Ð¡•Ù•¹Ðõ9½¹”¤è4(€€€€€€€€€€€¥˜¹½Ð±¥ÍÑ¥¹œ¹ÕÉÍ•±•Ñ¥½¸ ¤éÉ•ÑÕÉ¸4(€€€€€€€€€€€Í•¹…É¥¼±Á…Ñ õ•¹ÑÉ¥•Ím±¥ÍÑ¥¹œ¹ÕÉÍ•±•Ñ¥½¸ ¥lÁut4(€€€€€€€€€€€±¥¹•Ìõm˜íÍ•¹…É¥½l‰¹…µ”‰uôƒŠHíÁ…Ñ¡l‰¹…µ”‰uôœ±˜íÁ…Ñ¡l‰µ¥±•Ì‰tè¸É™ôµ¤ðíÁ…Ñ¡l‰­¥¹‰uôðI`¡•¥¡ÐíÁ…Ñ¡l‰Éà‰t½==Péô™Ðœ°œt4(€€€€€€€€€€€™½È¤± ¥¸•¹Õµ•É…Ñ”¡Íl¡•¥¡ÑÌt¤è4(€€€€€€€€€€€€€€€±½ÍÌ±™±…œõÁ…Ñ¡l±½ÍÍ•Ìum¥t4(€€€€€€€€€€€€€€€±¥¹•Ì¹…ÁÁ•¹¡˜MÑ…Ñ¥½¸…¹Ñ•¹¹„èí ½==Péô™Ðœ¤4(€€€€€€€€€€€€€€€¥˜±½ÍÌ¥Ì9½¹”è4(€€€€€€€€€€€€€€€€€€€±¥¹•Ì¹…ÁÁ•¹ %Q4ÁÉ•‘¥Ñ¥½¸Õ¹…Ù…¥±…‰±”œ¤4(€€€€€€€€€€€€€€€•±Í”è4(€€€€€€€€€€€€€€€€€€€‘½Ý¸±ÕÀ±Ý•…¬õµ…É¥¹Ì¡±½ÍÌ±Íl‰Õ‘•Ðt±Á…Ñ¡l­¥¹tôô!…¹‘¡•±œ¤4(€€€€€€€€€€€€€€€€€€€±¥¹•Ì¹•áÑ•¹¡m˜%Q4Á…Ñ ±½ÍÌèí±½ÍÌè¸Å™ô‘œ±˜MÑ…Ñ¥½¸ƒŠH•¹‘Á½¥¹Ðµ…É¥¸èí‘½Ý¸è¬¸Å™ô‘œ°4(€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€˜¹‘Á½¥¹ÐƒŠHÍÑ…Ñ¥½¸µ…É¥¸èíÕÀè¬¸Å™ô‘œ°4(€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€˜QÝ¼µÝ…äÑ…É•Ðèì‰5Pˆ¥˜Ý•…¬øõÍl‰‰Õ‘•Ð‰ul‰É•Í•ÉÙ”‰t•±Í”€‰5%MM‰ôœ°4(€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€˜5¥¹¥µÕ´Ñ•ÉÉ…¥¸±•…É…¹”èíÁ…Ñ¡l‰±•…É…¹”‰um¥t½==Pè¸Å™ô™Ðœ°4(€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€€˜5¥¹¥µÕ´É•Í¹•°±•…É…¹”èíÁ…Ñ¡l‰É…Ñ¥½Ì‰um¥t¨ÄÀÀè¸Á™ô”t¤4(€€€€€€€€€€€€€€€±¥¹•Ì¹•áÑ•¹¡m˜5½‘•°™±…œèí™±…œ½È€‰¹½¹”‰ôœ°œt¤4(€€€€€€€€€€€±¥¹•Ì¹…ÁÁ•¹ AÉ•‘¥Ñ¥½¹Ì…ÍÍÕµ”É•¥ÁÉ½…°ÁÉ½Á……Ñ¥½¸¸	Õ¥±‘¥¹Ì°™½±¥…”…¹¥¹Ñ•É™•É•¹”…É”¹½Ðµ½‘•±•¸M•”A™½ÈÑ¡”Ñ•ÉÉ…¥¸ÁÉ½™¥±”¸œ¤4(€€€€€€€€€€€‘•Ñ…¥±Ì¹½¹™¥ÕÉ”¡ÍÑ…Ñ”ô¹½Éµ…°œ¤í‘•Ñ…¥±Ì¹‘•±•Ñ” œÄ¸Àœ°•¹œ¤í‘•Ñ…¥±Ì¹¥¹Í•ÉÐ œÄ¸Àœ°q¸œ¹©½¥¸¡±¥¹•Ì¤¤í‘•Ñ…¥±Ì¹½¹™¥ÕÉ”¡ÍÑ…Ñ”ô‘¥Í…‰±•œ¤4(€€€€€€€±¥ÍÑ¥¹œ¹‰¥¹ œðñ1¥ÍÑ‰½áM•±•Ðøøœ±Í•±•Ð¤4(€€€€€€€¥˜•¹ÑÉ¥•Ìé±¥ÍÑ¥¹œ¹Í•±•Ñ¥½¹}Í•Ð À¤íÍ•±•Ð ¤4
+"""Project tools and detailed results for One Click Mesh."""
+import tkinter as tk
+from tkinter import ttk, filedialog
+import planning
+from terrain import FOOT
+from planning import margins
+
+class Tools:
+    def snapshot(self):
+        return dict(fields={k:v.get() for k,v in self.fields.items()},targets=self.targets.get('1.0','end').strip(),
+                    alternatives=self.alternatives_text.get(),quality=self.quality.get(),folder=self.folder.get(),
+                    discover=self.discover.get(),measurements=self.measurements,extended_radius=self.extended_radius.get())
+
+    def apply_project(self,data):
+        for key,value in data['fields'].items():
+            if key in self.fields:
+                self.fields[key].set(value)
+        self.targets.delete('1.0','end')
+        self.targets.insert('1.0',data.get('targets',''))
+        self.alternatives_text.set(data.get('alternatives',''))
+        self.quality.set(data.get('quality','Quick'))
+        self.extended_radius.set(data.get('extended_radius',False))
+        self.folder.set(data.get('folder',self.folder.get()))
+        self.discover.set(data['discover'])
+        self.measurements=data.get('measurements',[])
+
+    def save_project(self):
+        path=filedialog.asksaveasfilename(parent=self.root,defaultextension='.ocm.json',filetypes=[('One Click Mesh project','*.json')])
+        if path:
+            try:
+                planning.write_project(path,self.snapshot())
+                self.status.set('Project saved, including imported field measurements.')
+            except (OSError,ValueError) as error:
+                self.status.set(str(error))
+
+    def load_project(self):
+        if self.running:
+            self.status.set('Wait for the current assessment before opening another project.')
+            return
+        path=filedialog.askopenfilename(parent=self.root,filetypes=[('One Click Mesh project','*.json')])
+        if path:
+            old=self.snapshot()
+            try:
+                data=planning.read_project(path)
+                planning.alternatives(data.get('alternatives',''))
+                if data.get('quality','Quick') not in ('Quick','Detailed'):
+                    raise ValueError('Unknown sampling quality.')
+                self.apply_project(data)
+                self.status.set('Project loaded. Generate assessment to refresh predictions.')
+            except (OSError,ValueError,TypeError,KeyError,AttributeError) as error:
+                self.apply_project(old)
+                self.status.set(f'Project could not be opened: {error}')
+
+    def planning_tools(self):
+        win=tk.Toplevel(self.root)
+        win.title('One Click Mesh | Deployment planning')
+        frame=ttk.Frame(win,padding=18)
+        frame.pack(fill='both',expand=True)
+        ttk.Label(frame,text='Compare up to two additional sites against the same destinations.').pack(anchor='w')
+        ttk.Label(frame,text='One per line: Name, latitude, longitude').pack(anchor='w',pady=(8,3))
+        candidates=tk.Text(frame,width=72,height=4,font=('Consolas',10))
+        candidates.pack(fill='x')
+        candidates.insert('1.0',self.alternatives_text.get())
+        info=tk.StringVar(value=f'{len(self.measurements)} field-test points imported.')
+        ttk.Label(frame,textvariable=info,wraplength=550).pack(anchor='w',pady=10)
+        ttk.Label(frame,text='CSV required: latitude, longitude, sent, received\nOptional: rssi, snr, repeater, timestamp. Maximum 2,000 rows.',wraplength=550).pack(anchor='w')
+        def import_csv():
+            path=filedialog.askopenfilename(parent=win,filetypes=[('Field-test CSV','*.csv')])
+            if path:
+                try:
+                    rows=planning.measurements(path)
+                    self.measurements=rows
+                    info.set(f'{len(rows)} field-test points imported.')
+                except (OSError,ValueError,TypeError,AttributeError) as error:
+                    info.set(str(error))
+        def clear():
+            self.measurements=[]
+            info.set('Field-test data cleared.')
+        buttons=ttk.Frame(frame);buttons.pack(fill='x',pady=10)
+        ttk.Button(buttons,text='Import field-test CSV',command=import_csv).pack(side='left')
+        ttk.Button(buttons,text='Clear field tests',command=clear).pack(side='left',padx=8)
+        def save():
+            try:
+                value=candidates.get('1.0','end').strip()
+                planning.alternatives(value)
+                self.alternatives_text.set(value)
+                win.destroy()
+            except ValueError as error:
+                info.set(str(error))
+        ttk.Button(frame,text='Apply candidate sites',command=save,style='Primary.TButton').pack(anchor='e')
+
+    def inspect_results(self):
+        if not getattr(self,'last_result',None):
+            self.status.set('Generate an assessment first.')
+            return
+        s,r=self.last_result
+        win=tk.Toplevel(self.root)
+        win.title('One Click Mesh | Path inspector')
+        win.geometry('950x650')
+        frame=ttk.Frame(win,padding=15);frame.pack(fill='both',expand=True)
+        ttk.Label(frame,text='Select a destination to inspect both directions and terrain clearance.').pack(anchor='w')
+        split=ttk.Panedwindow(frame,orient='horizontal');split.pack(fill='both',expand=True,pady=10)
+        left=ttk.Frame(split);right=ttk.Frame(split);split.add(left,weight=1);split.add(right,weight=3)
+        listing=tk.Listbox(left,width=30,exportselection=False);listing.pack(fill='both',expand=True)
+        details=tk.Text(right,wrap='word',font=('Segoe UI',11),padx=12,pady=12)
+        scroll=ttk.Scrollbar(right,command=details.yview);scroll.pack(side='right',fill='y')
+        details.configure(yscrollcommand=scroll.set);details.pack(fill='both',expand=True)
+        entries=[]
+        for scenario in r['scenarios']:
+            for path in scenario['paths']:
+                entries.append((scenario,path))
+                listing.insert('end',f'{scenario["name"]}: {path["name"]}')
+        def select(event=None):
+            if not listing.curselection():return
+            scenario,path=entries[listing.curselection()[0]]
+            lines=[f'{scenario["name"]} â†’ {path["name"]}',f'{path["miles"]:.2f} mi | {path["kind"]} | RX height {path["rx"]/FOOT:g} ft','']
+            for i,h in enumerate(s['heights']):
+                loss,flag=path['losses'][i]
+                lines.append(f'Station antenna: {h/FOOT:g} ft')
+                if loss is None:
+                    lines.append('ITM prediction unavailable')
+                else:
+                    down,up,weak=margins(loss,s['budget'],path['kind']=='Handheld')
+                    lines.extend([f'ITM path loss: {loss:.1f} dB',f'Station â†’ endpoint margin: {down:+.1f} dB',
+                                  f'Endpoint â†’ station margin: {up:+.1f} dB',
+                                  f'Two-way target: {"MET" if weak>=s["budget"]["reserve"] else "MISSED"}',
+                                  f'Minimum terrain clearance: {path["clearance"][i]/FOOT:.1f} ft',
+                                  f'Minimum Fresnel clearance: {path["ratios"][i]*100:.0f}%'])
+                lines.extend([f'Model flag: {flag or "none"}',''])
+            lines.append('Predictions assume reciprocal propagation. Buildings, foliage and interference are not modeled. See PDF for the terrain profile.')
+            details.configure(state='normal');details.delete('1.0','end');details.insert('1.0','\n'.join(lines));details.configure(state='disabled')
+        listing.bind('<<ListboxSelect>>',select)
+        if entries:listing.selection_set(0);select()
