@@ -10,15 +10,15 @@ Internet access is needed for fresh USGS terrain, address lookup, maps and publi
 2. Enter station heights in feet and radius in miles. Add Prepared for if needed.
 3. Review radio settings and Advanced settings. Station, handheld and repeater transmit power and receive sensitivity are separate. Loss fields are cable/system losses at each endpoint.
 4. Choose Quick or Detailed geographic sampling. Detailed increases sample density, not terrain resolution.
-5. Click Generate assessment, then Open PDF. Reports are saved in your chosen folder.
+5. Click Generate assessment, then Open PDF. Reports are saved in your chosen folder. Save/open projects, map placement, planning tools, and path inspection are grouped under More tools.
 
-Scroll vertically or horizontally when using a smaller display or increased Windows scaling. Advanced settings temporarily replace the destination entry panel; turn them off to return to destinations.
+Scroll vertically or horizontally when using a smaller display or increased Windows scaling. Advanced settings expand below the report controls; destination fields stay visible.
 
 ## New planning tools
-- Place on map: load aerial or street imagery, pan/zoom, click a point and use it as the station, a destination or a candidate site. If GPS is empty, the picker starts at the Aurora example; it does not geocode the address. Map-added destinations start as handhelds at 5 ft; edit their height/type in the main form if necessary.
-- Planning tools: enter up to two additional candidate sites. All candidates use the same heights and the primary site's entered/discovered destinations. A comparison with no destinations cannot rank sites.
-- Save/Open project: preserve the form, candidates and imported measurements in an .ocm.json file. Open the project and generate again to refresh model results. Reports and terrain are not embedded in project files.
-- Inspect paths: after generation, select a destination to see each direction's margin, terrain/Fresnel clearance and ITM flags. The PDF includes terrain profiles at the middle tested height.
+- Place on map (More tools > Place on map): load aerial or street imagery, pan/zoom, click a point and use it as the station, a destination or a candidate site. If GPS is empty, the picker starts at the Aurora example; it does not geocode the address. Map-added destinations start as handhelds at 5 ft; edit their height/type in the main form if necessary.
+- Planning tools (More tools > Planning tools): enter up to two additional candidate sites. All candidates use the same heights and the primary site's entered/discovered destinations. A comparison with no destinations cannot rank sites.
+- Save/Open project (More tools): preserve the form, candidates and imported measurements in an .ocm.json file. Open the project and generate again to refresh model results. Reports and terrain are not embedded in project files.
+- Inspect paths (More tools > Inspect paths): after generation, select a destination to see each direction's margin, terrain/Fresnel clearance and ITM flags. The PDF includes terrain profiles at the middle tested height.
 
 ## Field-test CSV
 Use `resources/Field-Test-Template.csv` as a header template. Add one record per test location.

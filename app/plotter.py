@@ -97,7 +97,7 @@ class App(Tools):
         root.bind_all('<MouseWheel>',wheel,add='+')
         root.geometry('1040x850')
         frame.columnconfigure(0,weight=1)
-        site=ttk.LabelFrame(frame,text='Deployment site',padding=8)
+        site=ttk.LabelFrame(frame,text='1. Site and location',padding=8)
         site.grid(row=0,column=0,sticky='ew')
         self.entry(site,'site','Site name','',0,0,28)
         self.entry(site,'lat','Latitude','',0,1,22)
@@ -112,7 +112,7 @@ class App(Tools):
             row=5,column=0,columnspan=2,sticky='ew',padx=5,pady=(2,5))
         self.entry(site,'prepared_for','Prepared for (optional)','',2,2,22)
 
-        radio=ttk.LabelFrame(frame,text='Radio and public repeaters',padding=8)
+        radio=ttk.LabelFrame(frame,text='2. Radio settings',padding=8)
         radio.grid(row=1,column=0,sticky='ew',pady=7)
         for i,(key,label,value) in enumerate([
             ('freq','Frequency (MHz)','910.525'),('bw','Bandwidth (kHz)','62.5'),
@@ -123,9 +123,15 @@ class App(Tools):
         self.discover=tk.BooleanVar(value=True)
         ttk.Checkbutton(radio,text='Look up nearby public repeaters with matching radio settings',
                         variable=self.discover).grid(row=2,columnspan=5,sticky='w',padx=5,pady=(4,0))
+        sampling=ttk.Frame(radio)
+        sampling.grid(row=3,column=0,columnspan=5,sticky='ew',padx=5,pady=(7,1))
+        ttk.Label(sampling,text='Coverage map detail').pack(side='left',padx=(0,8))
+        ttk.Combobox(sampling,textvariable=self.quality,values=('Quick','Detailed'),
+                     state='readonly',width=12).pack(side='left')
+        ttk.Label(sampling,text='Detailed uses a denser grid; terrain stays at USGS resolution.',
+                  style='Status.TLabel').pack(side='left',padx=8)
 
-        target=ttk.LabelFrame(frame,text='Optional test destinations',padding=8)
-        self.destination_panel=target
+        target=ttk.LabelFrame(frame,text='3. Test destinations (optional)',padding=8)
         target.grid(row=2,column=0,sticky='ew')
         ttk.Label(target,text='One per line: Name, latitude, longitude, RX height in feet, handheld or repeater').grid(sticky='w',pady=(0,4))
         self.targets=tk.Text(target,height=3,font=('Consolas',10),wrap='none',undo=True,
@@ -137,8 +143,11 @@ class App(Tools):
         self.targets.configure(yscrollcommand=target_scroll.set)
         target.columnconfigure(0,weight=1)
 
-        folder=ttk.Frame(frame)
-        folder.grid(row=3,column=0,sticky='ew',pady=(9,5))
+        report_section=ttk.LabelFrame(frame,text='4. Create coverage assessment',padding=8)
+        report_section.grid(row=3,column=0,sticky='ew',pady=(7,0))
+        report_section.columnconfigure(0,weight=1)
+        folder=ttk.Frame(report_section)
+        folder.grid(row=0,column=0,sticky='ew')
         folder.columnconfigure(1,weight=1)
         launch_path=sys.executable if getattr(sys,'frozen',False) else __file__
         self.folder=tk.StringVar(value=str(Path(launch_path).resolve().parent/'Reports'))
@@ -146,14 +155,14 @@ class App(Tools):
         ttk.Entry(folder,textvariable=self.folder).grid(row=0,column=1,sticky='ew')
         ttk.Button(folder,text='Browse',command=self.browse).grid(row=0,column=2,padx=(6,0))
 
-        actions=ttk.Frame(frame)
-        actions.grid(row=4,column=0,sticky='ew',pady=(4,5))
+        actions=ttk.Frame(report_section)
+        actions.grid(row=1,column=0,sticky='ew',pady=(6,0))
         self.generate=ttk.Button(actions,text='Generate assessment',command=self.submit,
                                  style='Primary.TButton')
         self.generate.pack(side='left')
         self.open_report=ttk.Button(actions,text='Open PDF',command=self.open,state='disabled')
         self.open_report.pack(side='left',padx=(8,0))
-        self.advanced=ttk.LabelFrame(frame,text='Link budget and coverage options',padding=8)
+        self.advanced=ttk.LabelFrame(frame,text='Advanced radio and coverage options',padding=8)
         self.budget_fields=(
             ('power','TX power (dBm)','20',-20,40),
             ('tx_gain','Station gain (dBi)','2',-15,35),
@@ -174,23 +183,22 @@ class App(Tools):
         ttk.Checkbutton(self.advanced,text='Allow extended coverage radius (up to 40 mi)',
                         variable=self.extended_radius).grid(row=8,column=0,columnspan=4,sticky='w',padx=5,pady=6)
         self.advanced_open=tk.BooleanVar(value=False)
-        ttk.Checkbutton(actions,text='Advanced settings',variable=self.advanced_open,
-                        command=self.toggle_advanced).pack(side='right')
-        self.status=tk.StringVar(value='Step 1: Enter your deployment site and radio preset, then generate the assessment.')
-        self.status_label=ttk.Label(frame,textvariable=self.status,style='Status.TLabel',wraplength=710)
-        self.status_label.grid(row=5,column=0,sticky='w')
-        tools=ttk.Frame(frame)
-        tools.grid(row=6,column=0,sticky='ew',pady=8)
+        self.advanced_button=ttk.Button(actions,text='Advanced settings',command=self.toggle_advanced)
+        self.advanced_button.pack(side='right',padx=(6,0))
+        tools_menu=ttk.Menubutton(actions,text='More tools  ▾')
+        tools_menu.pack(side='right')
+        tools_popup=tk.Menu(tools_menu,tearoff=False)
         for label,command in [('Save project',self.save_project),('Open project',self.load_project),
                               ('Place on map',lambda:map_picker.open_picker(self)),
                               ('Planning tools',self.planning_tools),('Inspect paths',self.inspect_results)]:
-            ttk.Button(tools,text=label,command=command).pack(side='left',padx=(0,5))
-        quality=ttk.Frame(frame);quality.grid(row=7,column=0,sticky='ew')
-        ttk.Label(quality,text='Geographic sampling').pack(side='left',padx=(0,8))
-        ttk.Combobox(quality,textvariable=self.quality,values=('Quick','Detailed'),state='readonly',width=12).pack(side='left')
-        ttk.Label(quality,text='Detailed uses a denser grid; terrain remains USGS resolution.').pack(side='left',padx=8)
+            tools_popup.add_command(label=label,command=command)
+        tools_menu.configure(menu=tools_popup)
+        self.status=tk.StringVar(value='Enter the site and radio settings, optionally add destinations, then generate the assessment.')
+        self.status_label=ttk.Label(frame,textvariable=self.status,style='Status.TLabel',wraplength=710)
+        self.status_label.grid(row=5,column=0,sticky='w',pady=(5,0))
         self.sampling_note=tk.StringVar()
-        ttk.Label(frame,textvariable=self.sampling_note,wraplength=850,style='Status.TLabel').grid(row=8,column=0,sticky='w',pady=5)
+        ttk.Label(radio,textvariable=self.sampling_note,wraplength=850,style='Status.TLabel').grid(
+            row=4,column=0,columnspan=5,sticky='w',padx=5,pady=(4,0))
         for variable in (self.fields['radius'],self.quality,self.extended_radius):
             variable.trace_add('write',self.update_sampling_note)
         self.update_sampling_note()
@@ -264,12 +272,13 @@ class App(Tools):
         self.status.set(message)
 
     def toggle_advanced(self):
+        self.advanced_open.set(not self.advanced_open.get())
         if self.advanced_open.get():
-            self.destination_panel.grid_remove()
-            self.advanced.grid(row=2,column=0,sticky='ew')
+            self.advanced.grid(row=4,column=0,sticky='ew',pady=(7,0))
+            self.advanced_button.configure(text='Hide advanced settings')
         else:
             self.advanced.grid_remove()
-            self.destination_panel.grid()
+            self.advanced_button.configure(text='Advanced settings')
 
     def entry(self,parent,key,label,initial,row,col,width):
         var=tk.StringVar(value=initial)
