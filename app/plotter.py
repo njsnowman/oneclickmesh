@@ -48,31 +48,65 @@ class App(Tools):
         self.output=None
         self.running=False
         self.events=queue.Queue()
+        self.palette={
+            'bg':'#0B1118','surface':'#151F29','raised':'#1C2935','field':'#101922',
+            'header':'#0A1B2A','border':'#344654','text':'#E9F1F5','muted':'#A6B8C2',
+            'accent':'#4DE1C1','accent_hover':'#26BFA5','warning':'#F2BD63',
+        }
+        palette=self.palette
         style=ttk.Style(root)
         style.theme_use('clam')
-        style.configure('.',font=('Segoe UI',10),background='#F2F6F8',foreground='#172D3E')
-        style.configure('TEntry',fieldbackground='white',bordercolor='#C4D4DC',
-                        lightcolor='white',darkcolor='white',padding=(7,3))
-        style.configure('TLabelframe',bordercolor='#C4D4DC',relief='solid')
-        style.configure('TLabelframe.Label',font=('Segoe UI',10,'bold'),foreground='#006B64')
-        style.configure('TButton',padding=(12,6),background='#E3EBEF',bordercolor='#C4D4DC',
-                        lightcolor='#E3EBEF',darkcolor='#E3EBEF')
-        style.configure('Primary.TButton',background='#006B64',foreground='white',
-                        bordercolor='#006B64',lightcolor='#006B64',darkcolor='#006B64')
-        style.map('Primary.TButton',background=[('disabled','#788F98'),('active','#00544F')],
-                  foreground=[('disabled','white'),('active','white')])
-        style.configure('Brand.TFrame',background='#132C3D')
-        style.configure('Brand.TLabel',background='#132C3D',foreground='#A9E1D6',
+        style.configure('.',font=('Segoe UI',10),background=palette['bg'],foreground=palette['text'])
+        style.configure('TFrame',background=palette['bg'])
+        style.configure('TLabelframe',background=palette['surface'],bordercolor=palette['border'],relief='solid')
+        style.configure('TLabelframe.Label',background=palette['surface'],foreground=palette['accent'],
+                        font=('Segoe UI',10,'bold'))
+        style.configure('TLabel',background=palette['bg'],foreground=palette['text'])
+        style.configure('Field.TLabel',background=palette['surface'],foreground=palette['muted'])
+        style.configure('Status.TLabel',background=palette['surface'],foreground=palette['muted'])
+        style.configure('RootStatus.TLabel',background=palette['bg'],foreground=palette['muted'])
+        style.configure('Surface.TFrame',background=palette['surface'])
+        style.configure('TEntry',fieldbackground=palette['field'],foreground=palette['text'],
+                        insertcolor=palette['text'],bordercolor=palette['border'],
+                        lightcolor=palette['accent'],darkcolor=palette['border'],padding=(7,4))
+        style.map('TEntry',bordercolor=[('focus',palette['accent'])])
+        style.configure('TCombobox',fieldbackground=palette['field'],foreground=palette['text'],
+                        background=palette['raised'],arrowcolor=palette['accent'],bordercolor=palette['border'],
+                        lightcolor=palette['raised'],darkcolor=palette['raised'],padding=(6,3))
+        style.map('TCombobox',fieldbackground=[('readonly',palette['field'])],
+                  foreground=[('readonly',palette['text'])],selectbackground=[('readonly',palette['raised'])],
+                  selectforeground=[('readonly',palette['text'])])
+        style.configure('TCheckbutton',background=palette['surface'],foreground=palette['text'],
+                        focuscolor=palette['surface'])
+        style.map('TCheckbutton',background=[('active',palette['surface'])],
+                  foreground=[('active',palette['accent'])])
+        style.configure('TButton',padding=(11,6),background=palette['raised'],foreground=palette['text'],
+                        bordercolor=palette['border'],lightcolor=palette['raised'],darkcolor=palette['raised'])
+        style.map('TButton',background=[('active',palette['border']),('disabled',palette['surface'])],
+                  foreground=[('disabled',palette['muted'])])
+        style.configure('Primary.TButton',background=palette['accent'],foreground=palette['header'],
+                        bordercolor=palette['accent'],lightcolor=palette['accent'],darkcolor=palette['accent'],
+                        font=('Segoe UI',10,'bold'))
+        style.map('Primary.TButton',background=[('disabled',palette['border']),('active',palette['accent_hover'])],
+                  foreground=[('disabled',palette['muted']),('active',palette['header'])])
+        style.configure('TScrollbar',background=palette['raised'],troughcolor=palette['bg'],
+                        bordercolor=palette['bg'],arrowcolor=palette['muted'])
+        style.configure('TProgressbar',background=palette['accent'],troughcolor=palette['raised'],
+                        bordercolor=palette['border'],lightcolor=palette['accent'],darkcolor=palette['accent'])
+        style.configure('Brand.TFrame',background=palette['header'])
+        style.configure('Brand.TLabel',background=palette['header'],foreground=palette['accent'],
                         font=('Segoe UI',9,'bold'))
-        style.configure('Title.TLabel',background='#132C3D',foreground='white',
-                        font=('Segoe UI',23,'bold'))
-        style.configure('Subtitle.TLabel',background='#132C3D',foreground='#DCE9EE')
-        style.configure('Status.TLabel',foreground='#315366')
-        header=ttk.Frame(root,padding=(25,11),style='Brand.TFrame')
+        style.configure('Title.TLabel',background=palette['header'],foreground=palette['text'],
+                        font=('Segoe UI',21,'bold'))
+        style.configure('Subtitle.TLabel',background=palette['header'],foreground=palette['muted'])
+        style.configure('Progress.TLabelframe',background=palette['surface'],bordercolor=palette['border'])
+        style.configure('Progress.TLabelframe.Label',background=palette['surface'],foreground=palette['accent'],
+                        font=('Segoe UI',9,'bold'))
+        header=ttk.Frame(root,padding=(22,8),style='Brand.TFrame')
         header.grid(row=0,column=0,sticky='ew')
         ttk.Label(header,text='INDIANA MESH ALLIANCE (IMA)  /  501(c)(3) NONPROFIT',
                   style='Brand.TLabel').grid(sticky='w')
-        ttk.Label(header,text='One Click Mesh',style='Title.TLabel').grid(sticky='w',pady=(3,2))
+        ttk.Label(header,text='One Click Mesh',style='Title.TLabel').grid(sticky='w',pady=(2,1))
         ttk.Label(header,text='Site maps, USGS terrain, line of sight and Longley-Rice propagation',
                   style='Subtitle.TLabel').grid(sticky='w')
         root.rowconfigure(1,weight=1)
@@ -80,89 +114,103 @@ class App(Tools):
         viewport.grid(row=1,column=0,sticky='nsew')
         viewport.columnconfigure(0,weight=1)
         viewport.rowconfigure(0,weight=1)
-        canvas=tk.Canvas(viewport,highlightthickness=0,background='#F2F6F8')
+        canvas=tk.Canvas(viewport,highlightthickness=0,background=palette['bg'])
         canvas.grid(row=0,column=0,sticky='nsew')
         vertical=ttk.Scrollbar(viewport,orient='vertical',command=canvas.yview)
-        vertical.grid(row=0,column=1,sticky='ns')
-        horizontal=ttk.Scrollbar(viewport,orient='horizontal',command=canvas.xview)
-        horizontal.grid(row=1,column=0,sticky='ew')
-        canvas.configure(yscrollcommand=vertical.set,xscrollcommand=horizontal.set)
-        frame=ttk.Frame(canvas,padding=(24,12))
+        canvas.configure(yscrollcommand=vertical.set)
+        frame=ttk.Frame(canvas,padding=(14,9))
         content=canvas.create_window(0,0,window=frame,anchor='nw')
-        frame.bind('<Configure>',lambda e:canvas.configure(scrollregion=canvas.bbox('all')))
-        canvas.bind('<Configure>',lambda e:canvas.itemconfigure(content,width=max(e.width,frame.winfo_reqwidth())))
+        def refresh_viewport(event=None):
+            canvas.itemconfigure(content,width=canvas.winfo_width())
+            canvas.configure(scrollregion=canvas.bbox('all'))
+            overflow=frame.winfo_reqheight()>canvas.winfo_height()+2
+            if overflow:
+                vertical.grid(row=0,column=1,sticky='ns')
+            else:
+                vertical.grid_remove()
+                canvas.yview_moveto(0)
+        frame.bind('<Configure>',lambda e:canvas.after_idle(refresh_viewport))
+        canvas.bind('<Configure>',lambda e:canvas.after_idle(refresh_viewport))
         def wheel(event):
             if event.widget.winfo_toplevel()==root and not isinstance(event.widget,tk.Text):
                 canvas.yview_scroll(-int(event.delta/120),'units')
         root.bind_all('<MouseWheel>',wheel,add='+')
-        root.geometry('1040x850')
-        frame.columnconfigure(0,weight=1)
-        site=ttk.LabelFrame(frame,text='1. Site and location',padding=8)
-        site.grid(row=0,column=0,sticky='ew')
-        self.entry(site,'site','Site name','',0,0,28)
-        self.entry(site,'lat','Latitude','',0,1,22)
-        self.entry(site,'lon','Longitude','',0,2,22)
-        self.entry(site,'heights','Station heights (ft)','20, 40, 65',1,0,18)
-        self.entry(site,'radius','ITM radius (mi)','8',1,1,13)
-        self.entry(site,'handheld','Handheld height (ft)','5',1,2,13)
+        root.geometry('1280x860')
+        root.after(0,lambda:root.state('zoomed'))
+        frame.columnconfigure(0,weight=1,uniform='top-panels')
+        frame.columnconfigure(1,weight=1,uniform='top-panels')
+        site=ttk.LabelFrame(frame,text='1. Site and location',padding=7)
+        site.grid(row=0,column=0,sticky='nsew',padx=(0,5))
+        for col in range(3):site.columnconfigure(col,weight=1)
+        self.entry(site,'site','Site name','',0,0,20)
+        self.entry(site,'lat','Latitude','',0,1,15)
+        self.entry(site,'lon','Longitude','',0,2,15)
+        self.entry(site,'heights','Station heights (ft)','20, 40, 65',1,0,15)
+        self.entry(site,'radius','ITM radius (mi)','8',1,1,12)
+        self.entry(site,'handheld','Handheld height (ft)','5',1,2,12)
         self.fields['address']=tk.StringVar()
-        ttk.Label(site,text='Street address, city, state and ZIP (GPS takes precedence)').grid(
+        ttk.Label(site,text='Street address, city, state and ZIP (GPS takes precedence)',style='Field.TLabel').grid(
             row=4,column=0,columnspan=2,sticky='w',padx=5)
         ttk.Entry(site,textvariable=self.fields['address']).grid(
-            row=5,column=0,columnspan=2,sticky='ew',padx=5,pady=(2,5))
-        self.entry(site,'prepared_for','Prepared for (optional)','',2,2,22)
+            row=5,column=0,columnspan=2,sticky='ew',padx=5,pady=(2,4))
+        self.entry(site,'prepared_for','Prepared for (optional)','',2,2,18)
 
-        radio=ttk.LabelFrame(frame,text='2. Radio settings',padding=8)
-        radio.grid(row=1,column=0,sticky='ew',pady=7)
-        for i,(key,label,value) in enumerate([
-            ('freq','Frequency (MHz)','910.525'),('bw','Bandwidth (kHz)','62.5'),
-            ('sf','Spreading factor','7'),('cr','CR denominator','5'),
-            ('repeater','Repeater RX height (ft)','33'),
-        ]):
-            self.entry(radio,key,label,value,0,i,15)
+        radio=ttk.LabelFrame(frame,text='2. Radio settings',padding=7)
+        radio.grid(row=0,column=1,sticky='nsew',padx=(5,0))
+        for col in range(3):radio.columnconfigure(col,weight=1)
+        for key,label,value,row,col in [
+            ('freq','Frequency (MHz)','910.525',0,0),('bw','Bandwidth (kHz)','62.5',0,1),
+            ('sf','Spreading factor','7',0,2),('cr','CR denominator','5',1,0),
+            ('repeater','Repeater RX height (ft)','33',1,1),
+        ]:
+            self.entry(radio,key,label,value,row,col,14)
         self.discover=tk.BooleanVar(value=True)
         ttk.Checkbutton(radio,text='Look up nearby public repeaters with matching radio settings',
-                        variable=self.discover).grid(row=2,columnspan=5,sticky='w',padx=5,pady=(4,0))
-        sampling=ttk.Frame(radio)
-        sampling.grid(row=3,column=0,columnspan=5,sticky='ew',padx=5,pady=(7,1))
-        ttk.Label(sampling,text='Coverage map detail').pack(side='left',padx=(0,8))
+                        variable=self.discover).grid(row=4,columnspan=3,sticky='w',padx=5,pady=(2,0))
+        sampling=ttk.Frame(radio,style='Surface.TFrame')
+        sampling.grid(row=5,column=0,columnspan=3,sticky='ew',padx=5,pady=(4,0))
+        ttk.Label(sampling,text='Map detail',style='Field.TLabel').pack(side='left',padx=(0,7))
         ttk.Combobox(sampling,textvariable=self.quality,values=('Quick','Detailed'),
-                     state='readonly',width=12).pack(side='left')
-        ttk.Label(sampling,text='Detailed uses a denser grid; terrain stays at USGS resolution.',
-                  style='Status.TLabel').pack(side='left',padx=8)
+                     state='readonly',width=10).pack(side='left')
+        ttk.Label(sampling,text='Detailed = denser grid; same USGS terrain resolution.',
+                  style='Status.TLabel').pack(side='left',padx=7)
 
-        target=ttk.LabelFrame(frame,text='3. Test destinations (optional)',padding=8)
-        target.grid(row=2,column=0,sticky='ew')
-        ttk.Label(target,text='One per line: Name, latitude, longitude, RX height in feet, handheld or repeater').grid(sticky='w',pady=(0,4))
-        self.targets=tk.Text(target,height=3,font=('Consolas',10),wrap='none',undo=True,
-                             bg='white',fg='#172D3E',padx=8,pady=5,relief='flat',
-                             highlightthickness=1,highlightbackground='#C4D4DC',highlightcolor='#006B64')
+        target=ttk.LabelFrame(frame,text='3. Test destinations (optional)',padding=7)
+        target.grid(row=1,column=0,columnspan=2,sticky='ew',pady=(7,0))
+        ttk.Label(target,text='One per line: Name, latitude, longitude, RX height in feet, handheld or repeater',
+                  style='Field.TLabel').grid(sticky='w',pady=(0,4))
+        self.targets=tk.Text(target,height=2,font=('Consolas',10),wrap='none',undo=True,
+                             bg=palette['field'],fg=palette['text'],insertbackground=palette['text'],
+                             selectbackground=palette['accent_hover'],selectforeground=palette['header'],
+                             padx=8,pady=4,relief='flat',highlightthickness=1,
+                             highlightbackground=palette['border'],highlightcolor=palette['accent'])
         self.targets.grid(row=1,column=0,sticky='ew')
         target_scroll=ttk.Scrollbar(target,orient='vertical',command=self.targets.yview)
         target_scroll.grid(row=1,column=1,sticky='ns',padx=(4,0))
         self.targets.configure(yscrollcommand=target_scroll.set)
         target.columnconfigure(0,weight=1)
 
-        report_section=ttk.LabelFrame(frame,text='4. Create coverage assessment',padding=8)
-        report_section.grid(row=3,column=0,sticky='ew',pady=(7,0))
+        report_section=ttk.LabelFrame(frame,text='4. Create coverage assessment',padding=7)
+        report_section.grid(row=2,column=0,columnspan=2,sticky='ew',pady=(7,0))
         report_section.columnconfigure(0,weight=1)
-        folder=ttk.Frame(report_section)
+        folder=ttk.Frame(report_section,style='Surface.TFrame')
         folder.grid(row=0,column=0,sticky='ew')
         folder.columnconfigure(1,weight=1)
         launch_path=sys.executable if getattr(sys,'frozen',False) else __file__
         self.folder=tk.StringVar(value=str(Path(launch_path).resolve().parent/'Reports'))
-        ttk.Label(folder,text='Save reports to').grid(row=0,column=0,padx=(0,8))
+        ttk.Label(folder,text='Save reports to',style='Field.TLabel').grid(row=0,column=0,padx=(0,8))
         ttk.Entry(folder,textvariable=self.folder).grid(row=0,column=1,sticky='ew')
         ttk.Button(folder,text='Browse',command=self.browse).grid(row=0,column=2,padx=(6,0))
 
-        actions=ttk.Frame(report_section)
+        actions=ttk.Frame(report_section,style='Surface.TFrame')
         actions.grid(row=1,column=0,sticky='ew',pady=(6,0))
         self.generate=ttk.Button(actions,text='Generate assessment',command=self.submit,
                                  style='Primary.TButton')
         self.generate.pack(side='left')
         self.open_report=ttk.Button(actions,text='Open PDF',command=self.open,state='disabled')
         self.open_report.pack(side='left',padx=(8,0))
-        self.advanced=ttk.LabelFrame(frame,text='Advanced radio and coverage options',padding=8)
+        self.advanced=ttk.LabelFrame(frame,text='Advanced radio and coverage options',padding=7)
+        for col in range(4):self.advanced.columnconfigure(col,weight=1)
         self.budget_fields=(
             ('power','TX power (dBm)','20',-20,40),
             ('tx_gain','Station gain (dBi)','2',-15,35),
@@ -187,30 +235,36 @@ class App(Tools):
         self.advanced_button.pack(side='right',padx=(6,0))
         tools_menu=ttk.Menubutton(actions,text='More tools  ▾')
         tools_menu.pack(side='right')
-        tools_popup=tk.Menu(tools_menu,tearoff=False)
+        tools_popup=tk.Menu(tools_menu,tearoff=False,bg=palette['surface'],fg=palette['text'],
+                            activebackground=palette['accent'],activeforeground=palette['header'],
+                            relief='flat',borderwidth=0)
         for label,command in [('Save project',self.save_project),('Open project',self.load_project),
                               ('Place on map',lambda:map_picker.open_picker(self)),
                               ('Planning tools',self.planning_tools),('Inspect paths',self.inspect_results)]:
             tools_popup.add_command(label=label,command=command)
         tools_menu.configure(menu=tools_popup)
         self.status=tk.StringVar(value='Enter the site and radio settings, optionally add destinations, then generate the assessment.')
-        self.status_label=ttk.Label(frame,textvariable=self.status,style='Status.TLabel',wraplength=710)
-        self.status_label.grid(row=5,column=0,sticky='w',pady=(5,0))
+        self.status_label=ttk.Label(frame,textvariable=self.status,style='RootStatus.TLabel',wraplength=710)
+        self.status_label.grid(row=4,column=0,columnspan=2,sticky='w',pady=(4,0))
         self.sampling_note=tk.StringVar()
-        ttk.Label(radio,textvariable=self.sampling_note,wraplength=850,style='Status.TLabel').grid(
-            row=4,column=0,columnspan=5,sticky='w',padx=5,pady=(4,0))
+        ttk.Label(radio,textvariable=self.sampling_note,wraplength=520,style='Status.TLabel').grid(
+            row=6,column=0,columnspan=3,sticky='w',padx=5,pady=(3,0))
         for variable in (self.fields['radius'],self.quality,self.extended_radius):
             variable.trace_add('write',self.update_sampling_note)
         self.update_sampling_note()
-        progress_panel=ttk.LabelFrame(root,text='Assessment progress',padding=(12,6))
-        progress_panel.grid(row=2,column=0,sticky='ew',padx=12,pady=(0,8))
+        progress_panel=ttk.LabelFrame(root,text='Assessment progress',padding=(10,5),style='Progress.TLabelframe')
+        progress_panel.grid(row=2,column=0,sticky='ew',padx=10,pady=(0,6))
         progress_panel.columnconfigure(0,weight=1)
         self.phase=tk.StringVar(value='Ready - location, terrain, modeling, maps, PDF')
-        ttk.Label(progress_panel,textvariable=self.phase).grid(row=0,column=0,sticky='w')
+        ttk.Label(progress_panel,textvariable=self.phase,background=palette['surface'],
+                  foreground=palette['text']).grid(row=0,column=0,sticky='w')
         self.progress_bar=ttk.Progressbar(progress_panel,mode='indeterminate')
         self.progress_bar.grid(row=1,column=0,sticky='ew',pady=4)
-        self.activity=tk.Text(progress_panel,height=4,font=('Segoe UI',9),wrap='word',state='disabled',
-                              bg='white',fg='#315366',relief='flat')
+        self.activity=tk.Text(progress_panel,height=3,font=('Segoe UI',9),wrap='word',state='disabled',
+                              bg=palette['field'],fg=palette['muted'],insertbackground=palette['text'],
+                              selectbackground=palette['accent_hover'],selectforeground=palette['header'],
+                              relief='flat',highlightthickness=1,highlightbackground=palette['border'],
+                              highlightcolor=palette['accent'])
         self.activity.grid(row=2,column=0,sticky='ew')
         activity_scroll=ttk.Scrollbar(progress_panel,command=self.activity.yview)
         activity_scroll.grid(row=2,column=1,sticky='ns')
@@ -218,8 +272,11 @@ class App(Tools):
         self.started_at=None
         self.phase_number=0
         self.last_activity=''
-        menu=tk.Menu(root)
-        help_menu=tk.Menu(menu,tearoff=False)
+        menu=tk.Menu(root,bg=palette['surface'],fg=palette['text'],activebackground=palette['accent'],
+                     activeforeground=palette['header'],relief='flat',borderwidth=0)
+        help_menu=tk.Menu(menu,tearoff=False,bg=palette['surface'],fg=palette['text'],
+                          activebackground=palette['accent'],activeforeground=palette['header'],
+                          relief='flat',borderwidth=0)
         help_menu.add_command(label='Load demo site',command=self.load_demo_site)
         menu.add_cascade(label='Help',menu=help_menu)
         root.configure(menu=menu)
@@ -274,7 +331,7 @@ class App(Tools):
     def toggle_advanced(self):
         self.advanced_open.set(not self.advanced_open.get())
         if self.advanced_open.get():
-            self.advanced.grid(row=4,column=0,sticky='ew',pady=(7,0))
+            self.advanced.grid(row=3,column=0,columnspan=2,sticky='ew',pady=(7,0))
             self.advanced_button.configure(text='Hide advanced settings')
         else:
             self.advanced.grid_remove()
@@ -283,7 +340,7 @@ class App(Tools):
     def entry(self,parent,key,label,initial,row,col,width):
         var=tk.StringVar(value=initial)
         self.fields[key]=var
-        ttk.Label(parent,text=label).grid(row=row*2,column=col,sticky='w',padx=5)
+        ttk.Label(parent,text=label,style='Field.TLabel').grid(row=row*2,column=col,sticky='w',padx=5)
         ttk.Entry(parent,textvariable=var,width=width).grid(row=row*2+1,column=col,sticky='w',padx=5,pady=(2,5))
 
     def browse(self):
