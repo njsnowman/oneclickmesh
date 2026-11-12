@@ -16,6 +16,12 @@ The first run needs an internet connection for address lookup, USGS elevation, b
 
 Run `scripts\\build-windows.ps1` from PowerShell on Windows. The build uses PyInstaller and the bundled NTIA ITM library. The output is written to `dist\\One-Click-Mesh.exe`.
 
+## Build for macOS
+
+Pushes to `main` build downloadable macOS app archives for Apple Silicon and Intel in GitHub Actions. Open the repository's Actions tab, select **Build macOS app**, and download the artifact matching the Mac's processor. The ZIP contains `One-Click-Mesh.app`; drag it to Applications to install. The app is not code-signed or notarized, so macOS may require opening it with Control-click → **Open** the first time.
+
+The macOS build compiles the NTIA ITM v1.4 source into a native library before packaging. To reproduce locally on a Mac, install Python 3.12 and Xcode Command Line Tools, install `requirements-build.txt`, clone `https://github.com/NTIA/itm` at tag `v1.4`, run `scripts/build-itm-macos.sh <path-to-ntia-itm>`, then run `python -m PyInstaller --noconfirm --clean packaging/one-click-mesh.spec`.
+
 ## Repository layout
 
 ```text

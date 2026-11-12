@@ -5,6 +5,7 @@ import os
 import queue
 import re
 import sys
+import subprocess
 import threading
 import traceback
 from datetime import datetime
@@ -136,7 +137,8 @@ class App(Tools):
                 canvas.yview_scroll(-int(event.delta/120),'units')
         root.bind_all('<MouseWheel>',wheel,add='+')
         root.geometry('1280x860')
-        root.after(0,lambda:root.state('zoomed'))
+        if sys.platform=='win32':
+            root.after(0,lambda:root.state('zoomed'))
         frame.columnconfigure(0,weight=1,uniform='top-panels')
         frame.columnconfigure(1,weight=1,uniform='top-panels')
         site=ttk.LabelFrame(frame,text='1. Site and location',padding=7)
@@ -513,7 +515,12 @@ class App(Tools):
     def open(self):
         if self.output:
             try:
-                os.startfile(self.output)
+                if sys.platform=='win32':
+                    os.startfile(self.output)
+                elif sys.platform=='darwin':
+                    subprocess.Popen(['open',str(self.output)])
+                else:
+                    subprocess.Popen(['xdg-open',str(self.output)])
             except OSError as error:
                 self.status.set(str(error))
 

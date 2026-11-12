@@ -5,6 +5,7 @@ from pathlib import Path
 from urllib.parse import urlencode
 import hashlib
 import math
+import sys
 
 from PIL import Image
 
@@ -81,7 +82,15 @@ class TiledDEM:
 
 @lru_cache(maxsize=1)
 def itm_function():
-    library = CDLL(str(Path(__file__).with_name('itm.dll')))
+    library_name={
+        'win32':'itm.dll',
+        'darwin':'libitm.dylib',
+    }.get(sys.platform,'libitm.so')
+    locations=[Path(__file__).resolve().with_name(library_name)]
+    if getattr(sys,'_MEIPASS',None):
+        locations.insert(0,Path(sys._MEIPASS)/library_name)
+    library_path=next((path for path in locations if path.is_file()),locations[0])
+    library = CDLL(str(library_path))
     fn = library.ITM_P2P_TLS
     fn.argtypes = [c_double,c_double,POINTER(c_double),c_int,c_double,c_double,
                    c_int,c_double,c_double,c_int,c_double,c_double,c_double,

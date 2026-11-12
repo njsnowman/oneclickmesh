@@ -9,6 +9,7 @@ dist/
 *.pdf
 *.tif
 *.tiff
+app/*.dylib
 *.ocm.json
 Reports/
 .pytest_cache/
